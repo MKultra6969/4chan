@@ -32,3 +32,4 @@
 
 ## P.S. 💾
 Maybe I'll upload other files here later.
+I have nothing to do with hacking 4chan, just archiving info.
