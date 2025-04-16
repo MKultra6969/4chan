@@ -1,0 +1,1971 @@
+--- Log opened Tue Apr 15 03:56:00 2025
+03:56 -!- Irssi: Log file ~/irc-%Y-%m-%d.txt opened
+03:56 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+03:56 #4chan: < Veinfag> "Change your youtube username to your real name or get banned"
+03:56 #4chan: < fifel> anonemoose: People forgot THE WELL’s hysteric collapse by the time of USENET.  People forgot Kibo by the time of A Rape in Cyberspace.
+03:56 #4chan: < DEAFTONEGOES> i will sue for my pass charges since 2012
+03:56 #4chan: < Veinfag> Outlook did the same
+03:56 #4chan: < Norveg> Someone is going to in a huge list of people. Most didn't
+03:56 #4chan: < fifel> anonemoose: People keep forgetting the core myth of the birth of the internet.
+03:56 #4chan: < Mitchykins> Big tech said "People who use real names are nicer, please use real name"
+03:56 -!- Snowshoe [~mint@mintosoft.net] has quit []
+03:57 #4chan: < DEAFTONEGOES> I paid $20 BTC many times that is worth billions of dollars by now
+03:57 #4chan: < Veinfag> Now people with "real" names are the ones more likely to be bots than hitlercunny88
+03:57 #4chan: < p0rt42> they deserve this for banning me for a month
+03:57 #4chan: < anonemoose> I'd trust hitlercunny88 with my life
+03:57 #4chan: <@fun> i will unban you
+03:57 #4chan: <@fun> make it stop
+03:57 #4chan: < Norveg> Talking about bans
+03:57 #4chan: < Norveg> There are people abusing false DMCA claims to cause mischief
+03:57 #4chan: < p0rt42> it was last year but i dont care
+03:58 #4chan: < p0rt42> lel
+03:58 #4chan: <@fun> No
+03:58 #4chan: <@fun> NO
+03:58 #4chan: <@fun> PLEASE p0rt42 
+03:58 #4chan: < Veinfag> Norveg, that applies to ALL internet
+03:58 #4chan: < p0rt42> when will they kill 4chan
+03:58 #4chan: < Veinfag> People running boorus just put any tag that gets a single DMCA request under a paywall now
+03:58 #4chan: < Veinfag> Otherwise you end going crazy like the gelbooru guy
+03:59 #4chan: < fifel> Sounds like someone needs Morning Rescue.
+03:59 #4chan: < Norveg> But those DMCA's are handled manually right? Just look if the picture has a copyright, I'm getting month long bans for paint edits I've made myself
+03:59 #4chan: < Norveg> Because it has become a thing on /int/ to do
+03:59 #4chan: < Naemuti> dick butt
+03:59 #4chan: < mollypine> zomg teh rei
+03:59 #4chan: < mollypine> zounds
+03:59 #4chan: < Norveg> 0_o
+04:00 -!- xerxes [VFTTFV@Rizon-F7089D21.oc.oc.cox.net] has joined #4chan
+04:01 #4chan: < Norveg> It has to stop
+04:01 -!- beentheredonethat [~qwebirc@Rizon-730C2B2D.ctinets.com] has quit [Ping timeout: 240 seconds]
+04:01 #4chan: < fifel> Norveg: Don’t stop don’t stop don’t stop the beat.
+04:01 #4chan: < Norveg> Ok let's continue it
+04:02 #4chan: < mollypine> can't stop won't stop
+04:02 #4chan: < mollypine> god what a boring fucking night. i should be doing drugs
+04:02 #4chan: < mollypine> this weed won't smoke itself
+04:02 #4chan: < fuckingfuck> say no to drugs
+04:03 -!- Tekdude [~Tekdude@C940329A:7B785C89:358DFB53:IP] has joined #4chan
+04:03 #4chan: < dopa> >doing drugs
+04:03 #4chan: < fifel> Say yes to horrific simulated virtual realities
+04:03 #4chan: < dopa> KEK
+04:03 #4chan: < mollypine> say no to drugs except for chinese imported steroids 
+04:03 #4chan: < rebnt> list of mod emails 
+04:03 #4chan: < koolkid396> you're literally named dopa
+04:03 #4chan: < Norveg> Medica grade steroids in Thailand tho
+04:03 #4chan: < mollypine> fapping is bad for you dude btw you should really get on a stack of steroids no you have to buy them with bitcoin i'll link u a site
+04:03 #4chan: < dopa> dopamine is literally a hormone in your body koolkid396
+04:04 #4chan: < koolkid396> look up the l-dopa chemical
+04:04 -!- David3k [~David3k@9E322B49.45FE2A94.1BA6CE5E.IP] has joined #4chan
+04:04 #4chan: < koolkid396> fricking crack head
+04:04 #4chan: < dopa> look up your ass
+04:04 -!- Tekdude [~Tekdude@C940329A:7B785C89:358DFB53:IP] has left #4chan []
+04:04 #4chan: < fuckingfuck> gottem
+04:04 #4chan: < David3k> so, what exactly is going on with the site?
+04:05 #4chan: <@fun> site was great til david showed up
+04:05 #4chan: < fuckingfuck> raid from some cringe chan site, got admin access to the whole backend it seems
+04:05 #4chan: < rebnt> /qa/ won apparently 
+04:05 #4chan: < Kerghnox> haxxors
+04:05 #4chan: < David3k> so, I just mean that it's slow as hell
+04:05 #4chan: <@Aeolian> Temporary downtime, will be back online shortly.
+04:05 #4chan: < fifel> Please wait warmly.
+04:05 #4chan: < Kerghnox> stop using it
+04:05 #4chan: < fuckingfuck> its slow because they fucked it up somehow
+04:05 #4chan: < fifel> Anonymous Dev is shitting themselves.
+04:05 #4chan: < koolkid396> piper down
+04:06 #4chan: < mithrilpalisade> silly billy
+04:06 #4chan: < Palomino> site is kinda down, /vg/ has connection timeout for me
+04:06 #4chan: < David3k> but yeah, they tried to autoplay music or something, but I have autoplay muted and sound disabled domain-wide for 4chins.
+04:06 #4chan: <@fun> you broke it David3k 
+04:06 #4chan: < David3k> err, autoplay disabled and sound muted I mean
+04:06 #4chan: < fifel> I’m going to check on my laundry and dishes
+04:06 #4chan: <@fun> see if you can fix your browser
+04:06 #4chan: < David3k> got those backwards
+04:06 #4chan: <@fun> so we can come back online
+04:07 #4chan: < Naemuti> my browser is Netscape Navigator Gold is that compatible with 4chan
+04:07 -!- Norveg [~qwebirc@Rizon-2636984F.bredband.tele2.se] has quit [Ping timeout: 240 seconds]
+04:08 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:09 -!- p0rt42 [~p0rt42@B83A72CF.809DBD87.2929ECD9.IP] has quit [Ping timeout: 240 seconds]
+04:10 #4chan: < Kerghnox> it would be funny if this kills sharty too
+04:10 -!- BeanGala [~BeanGala@7BD09DDF.A7918891.BA90E16B.IP] has quit [Remote host closed the connection]
+04:10 -!- David3k [~David3k@9E322B49.45FE2A94.1BA6CE5E.IP] has quit []
+04:10 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:10 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:10 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:11 #4chan: < koolkid396> why would it?
+04:12 #4chan: < fifel> just use Lynx
+04:12 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:13 #4chan: < Naemuti> unironically i do sometimes
+04:13 #4chan: < buster> stephen is a real one
+04:13 #4chan: < Naemuti> lynx has use cases
+04:14 #4chan: < Mitchykins> Am I the only one tired of wojaks?
+04:14 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:14 #4chan: < footmandanschneider> brow.sh is better, it's literally a tui frontend to FireFox
+04:14 #4chan: < buster> i guess thats like disliking any other meme
+04:16 #4chan: < fifel> Am I seriously the only one here that has read Hegel?
+04:16 #4chan: < mithrilpalisade> i dont read
+04:16 #4chan: < metsu> i cant read
+04:16 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:16 #4chan: < buster> i dont no how to read
+04:16 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:16 #4chan: < fifel> mithrilpalisade: I’ve fucked your dad and he’s pregnant.
+04:16 #4chan: < mithrilpalisade> men cant get pregnant
+04:16 #4chan: < fifel> So you *CAN* read
+04:16 #4chan: < buster> ,,,,,,,,,,
+04:16 #4chan: < fifel> Also men can get pregnant.
+04:16 #4chan: < mithrilpalisade> i can read, i just choose not to
+04:17 #4chan: < buster> uterus transplant -> recreational abortion
+04:17 #4chan: < fifel> And yet you’re comprehending this whether you like it or not.
+04:17 #4chan: < fifel> buster: Gender change is easier, but sure.
+04:17 #4chan: < metsu> men get pregnant in my fav omniverse yaoi manga
+04:17 #4chan: < fifel> Or you can go full Kronos and just chow down on your first 23 children.
+04:17 #4chan: < buster> i do what i want wuh eav
+04:17 #4chan: < buster> i posed recreational abortion to chatgpt
+04:17 #4chan: < fifel> buster: whatchoo say bruv? bruv? bruv? whatchoo say?
+04:17 #4chan: < buster> that boy will talk about anything
+04:18 #4chan: < buster> framed recreational abortion in a hypothetical society thatd host it
+04:18 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:18 #4chan: < buster> ill try to find deets
+04:18 #4chan: < Kerghnox> yall need god
+04:18 #4chan: < Mitchykins> I'm probably going to sleep soon, hopefully this shit gets sorted tomorrow, otherwise... it was nice knowing you guys
+04:18 #4chan: < fifel> buster: You do know about the use of depo in war rape right?
+04:18 #4chan: < Mitchykins> Even when shit was bad, I liked the site
+04:18 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:19 #4chan: < buster> i dont 
+04:19 #4chan: < Kerghnox> Mitchykins, I love you, full homo
+04:19 -!- rebnt [~qwebirc@Rizon-C05A114F.hsd1.al.comcast.net] has quit [Ping timeout: 240 seconds]
+04:20 #4chan: < fifel> buster: States love depo https://en.wikipedia.org/w/index.php?title=East_Timor_genocide&section=6
+04:20 #4chan: < fifel> Fuck me wiki, your links used to work nice
+04:21 #4chan: < buster> we need an ethics number crunching machine
+04:22 -!- salmon [~salmon@northern.pacific.ocean] has quit [Quit: 🐟]
+04:22 #4chan: < fifel> Or you could just pay BDiv BTheo and BA graduates correctly.
+04:22 #4chan: < buster> is that how you do it
+04:22 #4chan: < buster> why do they disagree
+04:23 #4chan: < fifel> buster: For the amusements.
+04:23 #4chan: < buster> oh i misread what you said
+04:24 #4chan: < buster> im taking modafinil and im not able to drive safely
+04:24 #4chan: < buster> i think its fucking my shit up
+04:24 #4chan: < buster> we sleep
+04:24 -!- buster [~Owner@a.b.c.d.e] has quit [Quit: Leaving]
+04:25 -!- Shad0wMan [~qwebirc@Rizon-F677FAC.hsd1.co.comcast.net] has joined #4chan
+04:25 #4chan: < Shad0wMan> Uh
+04:25 #4chan: < Shad0wMan> guys
+04:25 #4chan: < Shad0wMan> are you guys back yet? ;_;
+04:26 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:26 #4chan: < mithrilpalisade> 4chan is kill
+04:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:26 -!- s0i1337 [~qwebirc@Rizon-67310504.range86-130.btcentralplus.com] has joined #4chan
+04:26 #4chan: < Shad0wMan> Fuck sharty, I just want to post in /gedg/ and /agdg/ man
+04:27 #4chan: < Kerghnox> source code leaked apparently, how bad is that?
+04:27 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:27 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:27 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:27 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:27 #4chan: < fifel> Kerghnox: I wish, it is machine code!
+04:29 #4chan: < Shad0wMan> imagine sharty gets hacked too as karma xD
+04:29 #4chan: < Kerghnox> it's over
+04:29 #4chan: < koolkid396> LOL XD
+04:29 #4chan: < Shad0wMan> would be so funny to see that shit backfire in those retarded teens' faces
+04:29 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:30 #4chan: < Kerghnox> Snowshoe, you ok?
+04:31 #4chan: < Shad0wMan> You know what pisses me off?
+04:31 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:31 #4chan: < fuckingfuck> no
+04:31 #4chan: < Shad0wMan> sharties are trying to coerce 4chan refugees to move to their site and use SHARTY instead
+04:31 #4chan: < Shad0wMan> when they only have one board that isn't for shitposting
+04:32 #4chan: < anonemoose> I'd rather cut off my own dick and transition while eating it before willing looking at wojaks and frogs all day
+04:32 #4chan: < koolkid396> frog website doe
+04:33 #4chan: < Kerghnox> anime website
+04:33 #4chan: < Quill0> I'll just go back to my Titanic Sinking livestream
+04:34 #4chan: < fuckingfuck> i didnt know they had streaming back when the titanic sank
+04:34 #4chan: <@DOTDOTDOT> can someone get me m80 ammo in tarkov
+04:34 #4chan: < fifel> Shad0wMan: Do you know how glad I am that I don’t know what the fuck you’re talking about
+04:35 #4chan: < fuckingfuck> its just some other shitty chan site
+04:35 #4chan: < fuckingfuck> now you know
+04:35 #4chan: < mollypine> imagine usng an off site
+04:35 #4chan: < Kerghnox> just turn your hacks on DOTDOTDOT 
+04:35 #4chan: <@DOTDOTDOT> i will never be chinese
+04:35 #4chan: < mithrilpalisade> DOTDOTDOT what do you think of marathon
+04:35 #4chan: < fifel> fuckingfuck: While I could surmise that syntactically, there is something phenomenological about the community and interface of an imagboard, like biting into a Madeline and discovering it is full of human faeces and being reminded of that time your father force fed you faeces for 3 days.
+04:35 #4chan: <@DOTDOTDOT> looks like dooodoocaca
+04:36 #4chan: < mithrilpalisade> true
+04:36 #4chan: < Naemuti> sharty is like the rc cola of imageboards
+04:36 #4chan: < fifel> Naemuti: BASH THE KEYS FOR GOD’S SAKE
+04:36 #4chan: < Shad0wMan> fifel: it's a shitty offsite that happened as a result of /qa/ getting nuked
+04:36 #4chan: < letov2> rc cola actually tastes good, thats a bad analogy 
+04:36 #4chan: < anonemoose> That's an insult to rc
+04:36 #4chan: < fifel> Shad0wMan: So the worst aspects of /jp/ /pol/ /s4s/ [s4s] and /v/
+04:36 #4chan: < Shad0wMan> and one of the users just hacked 4chan, brought back /qa/, and nuked every other board
+04:36 #4chan: < Shad0wMan> it's unironically joever
+04:37 #4chan: < koolkid396> ok who cares?
+04:37 #4chan: < Shad0wMan> they also leaked mods and janitors' emails
+04:37 #4chan: < Shad0wMan> and pass users' info lol
+04:37 #4chan: < Shad0wMan> personally glad I don't have a pass
+04:37 #4chan: < fuckingfuck> i didnt see pass user info, what did that include?
+04:37 #4chan: < Shad0wMan> but man I'm just pissed I can't post in /agdg/
+04:37 #4chan: < fifel> Shad0wMan: After poststructuralism nothing can be ironic until a truly new sincerity born of blood sacrifice on a massive scale, equivalent to 40 million plus preventable adult deaths is engaged in.
+04:37 #4chan: < Kerghnox> poorfags won
+04:38 #4chan: < mollypine> fifel: so, covid?
+04:38 #4chan: < mollypine> we already had taht
+04:38 #4chan: < Shad0wMan> also, this reminds me
+04:38 #4chan: < Shad0wMan> are mods aware the site is on fire right now
+04:38 #4chan: < Kerghnox> yes
+04:38 #4chan: < Palomino> the site is frozen
+04:38 #4chan: < mollypine> no they have no idea 
+04:38 #4chan: < mithrilpalisade> nah they're busy playing games
+04:38 #4chan: < mollypine> too busy heating up hot pockets am i right or what!!!!!
+04:38 #4chan: < fifel> mollypine: COVID didn’t kill nearly enough, probably due to staged infections allowing for the water food and sewer systems to generally function.
+04:38 #4chan: < Palomino> says 3-6 hours for maintenance
+04:38 #4chan: < anonemoose> They're all ERPing on VRchat right now, they'll get to it later
+04:39 #4chan: < Palomino> sounds based
+04:39 #4chan: < fifel> mollypine: Think about Great Patriotic War ][: The Greatness Strikes Back
+04:39 #4chan: < mollypine> you know what i should try making my own hot pockets
+04:40 #4chan: < koolkid396> i actually tried that once, but my table is too small to roll the dough sheets
+04:40 #4chan: < mollypine> Sad!
+04:40 #4chan: < fifel> mollypine: look up Australian Jaffle Iron
+04:40 #4chan: < Naemuti> how come there's no cold pockets
+04:40 #4chan: < Naemuti> 🤔
+04:41 #4chan: < mithrilpalisade> those are just frozen hot pockets
+04:41 #4chan: < mollypine> 🤔
+04:41 #4chan: < fifel> Naemuti: Why do motels have icemakers?
+04:41 #4chan: < fifel> What is a greased funnel
+04:41 #4chan: < mollypine> fifel: ohh
+04:42 #4chan: < mollypine> actually not a bad idea
+04:42 -!- Bloyben [~qwebirc@Rizon-C81613CC.dyn.optonline.net] has joined #4chan
+04:42 #4chan: < mollypine> problem is i don't know where to get kitchen stuff anymore
+04:43 #4chan: < Bloyben> ...friend of mine just told me he bought a 4chan pass last week
+04:43 #4chan: < Bloyben> How bad is this gonna be
+04:43 #4chan: < mollypine>  oh my god pass users are fine holy shit lol
+04:43 #4chan: < koolkid396> he is going to be getting some pizzas tonight
+04:43 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:43 #4chan: < mollypine> your email address is already in a million databases anyway
+04:43 #4chan: < Shad0wMan> I'm more mad because I can't post on /g/ or /vg/
+04:44 #4chan: < Bloyben> They gonna leak real names too?
+04:44 #4chan: < Shad0wMan> mainly the gamedev generals
+04:44 #4chan: < mollypine> why would they have access to real names
+04:44 #4chan: < mithrilpalisade> how would they have your real name?
+04:44 #4chan: < Bloyben> Oh yeah lol
+04:44 #4chan: < fifel> mollypine: If it were Australia for Sydney I’d just recommend Peters of Kensington.  It is right next door to the gay orgy house (former)
+04:44 #4chan: < Bloyben> Sorry, I don't know how the registration process works
+04:44 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:44 #4chan: < mithrilpalisade> it's just an email
+04:44 #4chan: < fifel> Bloyben: Papiere Bitter.
+04:44 #4chan: < Bloyben> Alright, that's somewhat reassuring, thanks
+04:44 #4chan: < Kerghnox> >/vg/ you should be happy
+04:45 #4chan: < Shad0wMan> what about passwords? /s
+04:45 #4chan: < Shad0wMan> hunter2
+04:45 #4chan: < Bloyben> He only made like two harmless posts in /toy/ anonymously
+04:45 -!- lunasena [~qwebirc@Rizon-EBA0DB4C.res.spectrum.com] has joined #4chan
+04:45 #4chan: < Shad0wMan> Kerghnox: I was just about to post in /gedg/ or /agdg/ for gamedev advice and that's unironically how I found out the site got hacked
+04:46 #4chan: < Shad0wMan> asking for gamedev advice*
+04:46 #4chan: < koolkid396> are you the guy making that goblin killing game?
+04:46 #4chan: < Shad0wMan> no
+04:46 #4chan: < mollypine> sisters i was about to post in the large penis support group general but um, it seems the site is down..??
+04:46 #4chan: < Shad0wMan> I'm just a rando
+04:46 #4chan: < Shad0wMan> nodev even
+04:47 #4chan: < mithrilpalisade> mollypine same except small penis
+04:47 #4chan: < Shad0wMan> even if I did make any progress I wouldn't post it in those generals
+04:47 #4chan: < mollypine> all sizes are prizes 
+04:47 #4chan: < Shad0wMan> only anonymous posts asking for advice/tips
+04:47 #4chan: < mithrilpalisade> that's what i tell myself too
+04:47 #4chan: < Shad0wMan> there's too many schizos in /agdg/
+04:48 #4chan: < koolkid396> i will answer your questions
+04:48 #4chan: < anonemoose> Too many schizos everywhere, really
+04:48 #4chan: < anonemoose> Beasts all over the shop
+04:48 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:48 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:48 #4chan: < Kerghnox> man that general has a lot of schizos who hates any dev who makes it
+04:48 #4chan: < Shad0wMan> Yes
+04:48 #4chan: < Shad0wMan> I was just about to say that
+04:48 #4chan: < Shad0wMan> it's like that on the /v/ gamedev threads too
+04:49 #4chan: < Shad0wMan> but /gedg/ has less of them but still has schizos but instead they just rant about random tech bs
+04:49 #4chan: < anonemoose> I always tell myself "this year I'll actually learn and make something"
+04:49 #4chan: < anonemoose> But nodev is forever
+04:49 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:49 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:49 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:49 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:49 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:49 #4chan: < mithrilpalisade> bruh
+04:50 #4chan: < Shad0wMan> like /gedg/ had a guy who constantly ranted about how any graphics API that isn't old OpenGL (like 1.1, FFP) is a scam or something and that you should target your game to people who have potato laptops running windows xp in the year of our lord 2025
+04:50 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:51 #4chan: < Shad0wMan> and the funniest part is apparently he actually does live in africa
+04:51 #4chan: < koolkid396> he's right you know
+04:51 -!- mollypine [~geese@yiff.yiff.aroo] has quit [Ping timeout: 240 seconds]
+04:51 #4chan: < Shad0wMan> I mean
+04:51 #4chan: < Shad0wMan> Vulkan is ass
+04:51 -!- devourer [~ThrustVec@58AF9FCD.D8F9130B.FCB2F545.IP] has quit [Quit: NO INTERNETS!]
+04:51 #4chan: < Shad0wMan> but OpenGL 3.x is fine
+04:51 #4chan: < Shad0wMan> FFP has its flaws
+04:51 #4chan: < Shad0wMan> but so do shaders tbf
+04:52 -!- neon [~cyberspac@C4A01569:8A2627EB:50427E5B:IP] has joined #4chan
+04:52 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:52 #4chan: < Bloyben> So what, is sharty gonna post a list of all the e-mails of people that bought a 4chan pass or what
+04:52 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:52 #4chan: < Kerghnox> do they have that
+04:53 #4chan: < Bloyben> Apparently 4chan pass info got leaked too
+04:53 #4chan: < fuckingfuck> if it has they havent said anything
+04:53 #4chan: < Bloyben> That's what I heard on twitter
+04:53 #4chan: < fuckingfuck> theyre just foaming at the mouth for the source code for the site, which i dont understand at all because its a basic ass imageboard 
+04:53 -!- MarseyTheCat [~qwebirc@Rizon-D0EC523.hsd1.nm.comcast.net] has quit [Ping timeout: 240 seconds]
+04:54 -!- mollypine [~geese@yiff.yiff.aroo] has joined #4chan
+04:54 #4chan: < Shad0wMan> fuckingfuck: because their imageboard sucks
+04:54 #4chan: < Shad0wMan> sharty's I mean
+04:54 #4chan: < Shad0wMan> lol
+04:54 #4chan: < fuckingfuck> how hard can it be to make one from scratch 
+04:54 #4chan: < Shad0wMan> only has 5 boards, and can't handle all the traffic it's getting
+04:54 #4chan: < anonemoose> Isn't the basic structure already open?
+04:54 #4chan: < fuckingfuck> the hardest part is paying for a server to host it
+04:54 #4chan: < Shad0wMan> also got flagged as a potential phishing site by cloudflare
+04:54 #4chan: < Bloyben> I just wanna put my friend at east
+04:55 #4chan: < mollypine> offsites never last
+04:55 #4chan: < Bloyben> *ease
+04:55 #4chan: < mollypine> many have come and they've all fallen
+04:55 #4chan: < Bloyben> If only the poor bastard had waited a week
+04:55 -!- David3k [~David3k@9E322B49.45FE2A94.1BA6CE5E.IP] has joined #4chan
+04:55 #4chan: < Shad0wMan> https://files.catbox.moe/jbj4zz.png
+04:55 #4chan: < fuckingfuck> if they have pass info, the pinned thread has not mentioned it
+04:55 #4chan: < fuckingfuck> as far as i can tell anyway
+04:55 #4chan: < David3k> so, what exactly was "won"?
+04:55 #4chan: < mollypine> David3k: internet points
+04:55 #4chan: < David3k> it says "/qa/ won" won what?
+04:55 #4chan: < mollypine> spacebux
+04:55 -!- mode/#4chan [-b *!*@I.OWN.THE.SKIES] by Yotsubot
+04:56 #4chan: < David3k> context?
+04:56 #4chan: < fuckingfuck> they won the internet by existing after /qa/ was deleted 
+04:56 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+04:56 #4chan: < David3k> that tells me nothing
+04:56 #4chan: < mollypine> they won epic win
+04:56 #4chan: < mollypine> w rizz, if you will
+04:56 -!- AndyDufresne [~qwebirc@1799AA68.9044D81.BEF104AF.IP] has joined #4chan
+04:56 #4chan: < fuckingfuck>  /qa/ was a board, it was shit, it got shut down, pants shitters shit their pants and made their own imageboard with blackjack and hookers
+04:57 -!- Snowshoe [~mint@mintosoft.net] has quit []
+04:57 -!- ThrustVect [~ThrustVec@I.OWN.THE.SKIES] has joined #4chan
+04:57 -!- mode/#4chan [+b *!*@I.OWN.THE.SKIES] by Yotsubot
+04:57 -!- ThrustVect was kicked from #4chan by Yotsubot [User has been banned from the channel (akick)]
+04:57 #4chan: < mollypine> gasp
+04:57 #4chan: < David3k> that's why I'm asking if there was some sort of contest or something?
+04:57 #4chan: < mollypine> not thrustvect
+04:57 #4chan: < David3k> also, vect is banned???
+04:57 #4chan: < Shad0wMan> who's that
+04:57 #4chan: < mollypine> an oldhead
+04:57 #4chan: < David3k> wtf
+04:57 -!- vm [~vm@no.body] has joined #4chan
+04:57 #4chan: < David3k> I HAVE been gone awhile, what the shit
+04:58 -!- Steve2 [~Jim@Rizon-78BC6944.res.spectrum.com] has joined #4chan
+04:58 #4chan: < mithrilpalisade> @David3k no they hacked the site and put the board back up for a bit
+04:58 #4chan: < David3k> jesus, last time I was on here was feb 5, last year
+04:58 #4chan: < Steve2> those b'tards did it
+04:58 -!- xerxes [VFTTFV@Rizon-F7089D21.oc.oc.cox.net] has quit []
+04:59 -!- neon [~cyberspac@the.tube] has changed host
+05:00 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:00 -!- syrno [~syrno@Rizon-FBDB1683.fdr01.lssr.ca.ip.frontiernet.net] has quit [Quit: Going offline, see ya! (www.adiirc.com)]
+05:00 #4chan: < Veinfag> I have seen like 8-10 4chan clones made by a single autist that are almost similar
+05:01 #4chan: < Veinfag> how come they dont have a single autist that can
+05:01 #4chan: < mollypine> the grow like weeds
+05:01 -!- BigAniki [~user1234@some.big.guy] has joined #4chan
+05:01 -!- syrno [~syrno@Rizon-FBDB1683.fdr01.lssr.ca.ip.frontiernet.net] has joined #4chan
+05:01 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:02 #4chan: < anonemoose> The only good "clone" was danger/u/
+05:03 #4chan: < mollypine> yeah so it turns out people who get banned from 4chan don't really make up the basis for a community you want to run
+05:03 #4chan: < mollypine> weird how that works
+05:03 #4chan: < Naemuti> i've been banned from 4chan before
+05:03 #4chan: < Steve2> everyone has retard
+05:03 #4chan: < Steve2> anyways, when the site comes back up I'll be more than happy to shitpost on /qa/
+05:04 #4chan: < mollypine> /qa/ was just one big clan meeting lol what's even there to be nostalgic about
+05:04 -!- David3k [~David3k@9E322B49.45FE2A94.1BA6CE5E.IP] has quit []
+05:04 #4chan: < Steve2> different board culture, its basically sfw /b/
+05:05 #4chan: < mollypine> if you say so
+05:05 #4chan: < fuckingfuck> so it's like /v/
+05:05 #4chan: < anonemoose> Jakfaggotry should've been squashed in it's infancy
+05:05 #4chan: < anonemoose> Bunch of retarded zoomers making ugly ass edits
+05:05 #4chan: < mollypine> they lack the part of the brain required for creativity they can't help it
+05:05 #4chan: < mithrilpalisade> it was extremely obnoxious when /qa/ was around
+05:06 #4chan: < anonemoose> It's made me believe the whole soulless npc thing, actual orcs
+05:06 #4chan: < Steve2> lots of people who got soyquoted one time and got bitter about it in the irc
+05:07 #4chan: < Shad0wMan> I just want /gedg/ and /agdg/ back man
+05:07 -!- Kerghnox [~Kerghnox@Rizon-2E5893AA.dynamic.bellmts.net] has quit [Quit: Leaving]
+05:08 #4chan: < Steve2> I never post at midnight so this doesn't effect me really but this isn't an everyday occurance
+05:08 #4chan: < Steve2> I only post on dead african child boards like int anyways
+05:08 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:08 #4chan: < mollypine> didn't /qa/ just move to /trash/ anyway
+05:08 #4chan: < mollypine> literally just go there
+05:08 -!- cake [~cake@delicious.cake] has joined #4chan
+05:09 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:09 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:09 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:09 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:09 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:09 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:09 #4chan: < Steve2> the general thread did but everything else either died or moved to .party
+05:09 #4chan: < Steve2> actually no
+05:09 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:09 #4chan: < Steve2> a lot of bant posters are x-qa
+05:09 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:10 #4chan: < koolkid396> the OGs went to trash, the bantroons were the ones that killed /qa/
+05:11 #4chan: < mollypine> why is everything troons now
+05:11 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:11 #4chan: < mollypine> who did this to you people
+05:11 #4chan: < mollypine> your brains are mush
+05:11 #4chan: < fuckingfuck> thats exactly what a troon would say
+05:12 #4chan: < mollypine> i'm just saying it makes it very easy to spot newfags
+05:12 #4chan: < koolkid396> t. mollypintroon
+05:12 #4chan: < Steve2> ^^ /tttt/ regular
+05:12 #4chan: < mule42> s/troon/train/g choo choo!
+05:12 #4chan: < Naemuti> hey everyone i'm going to step away for a few minutes could you watch my chocolate milk for me
+05:13 -!- hydrobuddypoke [~qwebirc@CFBFC1A6.DA5B0CCA.3D4DB805.IP] has joined #4chan
+05:13 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:13 #4chan: < Shad0wMan> again, the fact I can't post in /agdg/ is enough to make me hate sharty
+05:13 #4chan: < Steve2> what dead nigger baby board is that general on
+05:14 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:17 -!- DarkDramatication [~darkdrama@Darkness.Sign.Demarcation] has joined #4chan
+05:17 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:17 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:18 #4chan: < BigAniki> at least the cringe jaks rekt /lgbt/
+05:18 #4chan: < BigAniki> no idea why we even have that board
+05:18 #4chan: < DarkDramatication> Can I get a QRD
+05:18 #4chan: < DarkDramatication> Did they hack the matrix or is this an event or am I turning bananas
+05:19 #4chan: < BigAniki> They killed 4chan
+05:19 #4chan: < Steve2> admin password hacked
+05:19 #4chan: < DarkDramatication> wew
+05:19 #4chan: < Steve2> ty for having great opsec hiro
+05:19 #4chan: < Shad0wMan> DarkDramatification: user from a shitty offsite hacked hiro, compromised the whole site, nuked all boards except /qa/, brought back /qa/, and are doxxing janitor/mods
+05:19 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:19 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:19 #4chan: < BigAniki> probably because they got tired of the site sucking like nonstop goon threads in /b/, gay shit in /soc/, having an /lgbt/ board
+05:19 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:19 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:19 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:19 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:19 #4chan: < BigAniki> and some users complaining about bbc posting in /jp/
+05:19 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:19 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:19 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:19 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:19 #4chan: < Steve2> its midday in japan rn and I would bet a lot of cash hiroshima doesn't know what's happening
+05:19 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:19 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:19 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:20 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:20 #4chan: < Shad0wMan> hiroyuki lives in france iirc
+05:20 #4chan: < mule42> he's like a fugitive from japanese justice or something.
+05:20 #4chan: < Steve2> he doesn't actually live in japan?
+05:20 #4chan: < Steve2> huh
+05:20 #4chan: < Steve2> ah so he's Japanese null
+05:20 #4chan: < BigAniki> like why do we even have /lgbt/ when it doesn't contain the faggotry to it?
+05:21 #4chan: < Steve2> it should be like /mlp/
+05:21 #4chan: < fuckingfuck> you can ask them when the site comes back up
+05:21 #4chan: < mule42> a /trans/ that included transhumanism would be handy.
+05:21 #4chan: < BigAniki> and /b/ being another porn board is retarded, i get it that it's a fed honeypot
+05:21 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:21 #4chan: < mithrilpalisade> 4chan is lgbt friendly
+05:21 #4chan: < BigAniki> but holy shit, the site has like 10 porn boards already
+05:22 #4chan: < koolkid396> tranny website, chud. DEAL WITH IT.
+05:22 #4chan: < BigAniki> 4chan was never lgbt friendly fag
+05:22 #4chan: < mule42> the things people call porn is diverse.
+05:22 #4chan: < BigAniki> cancerfags calling 4chan lgbt friendly lmao
+05:22 #4chan: < fuckingfuck> 4chan supports gay rights 
+05:22 #4chan: < mithrilpalisade> lgbt board proves it, thankfully
+05:22 #4chan: < fuckingfuck> dont be a bigot
+05:22 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:22 #4chan: < mule42> who was the legendary trap /b/ used to worship? the 3d one.
+05:22 #4chan: < BigAniki> yikes
+05:23 -!- Alok [~Alok@FBC1BE35.F1216304.966FDD6B.IP] has joined #4chan
+05:23 -!- Bloyben [~qwebirc@Rizon-C81613CC.dyn.optonline.net] has quit [Quit: Page closed]
+05:23 #4chan: < Shad0wMan> anyways, what are your thoughts on the minecraft movie fellas
+05:23 #4chan: < Shad0wMan> I watched the leaked workprint a couple nights ago
+05:23 #4chan: < Naemuti> CHICKEN JOCKEY
+05:23 #4chan: < Shad0wMan> or maybe last night
+05:23 #4chan: < fuckingfuck> i liked the part with steve
+05:23 #4chan: < Shad0wMan> I forgor when
+05:23 #4chan: < BigAniki> actually /lgbt/ was meant to be a containment board like /mlp/
+05:23 #4chan: < Shad0wMan> I think it's not actually that bad of a movie
+05:23 #4chan: <@Aeolian> That one guy who shouted out "Nether" in the theater (with a hard "r")
+05:23 #4chan: < Shad0wMan> it's not great either though
+05:24 #4chan: < Shad0wMan> it's more of a stupid movie
+05:24 #4chan: < Naemuti> it's a terrible movie
+05:24 #4chan: < BigAniki> literally scared girls off from posting pens in poopers with all the fags posting gay shit in /b/ and /soc/
+05:24 #4chan: < Naemuti> but it was fun
+05:24 #4chan: <@fun> what was i?
+05:24 #4chan: < fuckingfuck> for real though, its benign. its a movie for kids, kids like it
+05:24 #4chan: < Shad0wMan> true
+05:24 #4chan: < mule42> i hate that for kids is code for sucks.
+05:24 #4chan: < Naemuti> ^
+05:24 #4chan: < BigAniki> in fact most of the femanons got so fed up with the unironic fags that they left off to crystal.cafe and probably reddit
+05:24 #4chan: < Shad0wMan> mario movie 2023 was unironically better as a film even though that was still just as bland and safe
+05:24 #4chan: < Naemuti> the looney tunes movie was good
+05:25 #4chan: < Shad0wMan> weirdly
+05:25 #4chan: < Shad0wMan> the genuinely good videogame movies imo are
+05:25 #4chan: < Shad0wMan> the sonic movies
+05:25 #4chan: < Naemuti> the only good media based off a video game is arcane
+05:25 #4chan: < mithrilpalisade> qa was banned because they raided lgbt btw
+05:25 #4chan: < Naemuti> i refuse to entertain other viewpoints
+05:25 #4chan: < Naemuti> its all garbage
+05:25 #4chan: < BigAniki> If it weren't for the interest boards like /a/, /v/, /g/, etc, the site would've been abandoned from the gay cancer
+05:25 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:25 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:25 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:25 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:25 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:26 #4chan: < Shad0wMan> while the mario movie and minecraft movie are just "ok"/bland
+05:26 #4chan: < Steve2> vp is carrying 4chan on its back
+05:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:26 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:26 #4chan: < fuckingfuck> thank you /vp/
+05:26 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:26 #4chan: < mule42> linetrap. that was it.
+05:26 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:26 #4chan: < Naemuti> vp has too many pokefuckers
+05:26 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:26 #4chan: < BigAniki> why isn't gay crap contained to /lgbt/ like how /vp/ and /mlp/ is
+05:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:26 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:26 #4chan: < mithrilpalisade> because it isnt a containment board
+05:26 #4chan: < fuckingfuck> because being gay is a part of being human
+05:26 #4chan: < BigAniki> both /vp/ and /mlp/ are containment boards
+05:26 #4chan: < fuckingfuck> we are all gay
+05:26 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:26 #4chan: < Palomino> is it not /vt/
+05:26 #4chan: < Steve2> see vp is good if you just filter out 1/3 of the board
+05:26 #4chan: < Palomino> that carries it
+05:26 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:27 #4chan: < Palomino> it has the most traffic iirc
+05:27 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:27 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:27 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:27 #4chan: < Shad0wMan> Any one have any thoughts on the scene in the minecraft movie where Jack Black and Jason Momoa 69
+05:27 -!- eise [~eise8@52E66DBA:14AD3E87:A26E2254:IP] has quit [Quit: Leaving]
+05:27 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:27 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:27 #4chan: < Shad0wMan> https://files.catbox.moe/j3q4gu.jpg
+05:27 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:27 #4chan: < BigAniki> i unironically miss the days when there would be at most 1 faggot posting on 4chan every 3 months at most, and the majority was attention whores posting
+05:27 #4chan: < BigAniki> literally ruined the site
+05:27 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:27 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:27 #4chan: < mule42> the only hot 69 i ever saw was in legend of the overfiend. feels like the buildup earned in.
+05:27 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:28 #4chan: < Shad0wMan> Honestly though
+05:28 #4chan: < Naemuti> >https://files.catbox.moe/j3q4gu.jpg
+05:28 #4chan: < Naemuti> what did they mean by this
+05:28 #4chan: < Shad0wMan> I think the minecraft movie is gonna be memed about for ages
+05:28 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:28 #4chan: < mollypine> BigAniki: believe it or not being gay isn't against the rules
+05:28 #4chan: < Naemuti> it has The Room energy
+05:28 #4chan: < mollypine> never has been
+05:28 #4chan: < slushybaka> YEAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+05:29 #4chan: < mule42> i'm waiting for a detailed critique comparing the production to the old mario bros movie.
+05:29 -!- neon [~cyberspac@the.tube] has quit [Quit: leaving]
+05:29 #4chan: < BigAniki> mollypine, and all boards that are nsfw has to be a grindr app for the fags?
+05:29 #4chan: < mollypine> "_Crunnchy
+05:29 #4chan: < BigAniki> when they already have /lgbt/?
+05:29 #4chan: < mollypine> delusional
+05:29 #4chan: < Shad0wMan> Naemuti: yeah
+05:29 #4chan: < BigAniki> take a look at /soc/ and /b/
+05:29 #4chan: < koolkid396> where do you think you are?
+05:29 #4chan: < mollypine> "i unironically miss the days when there would be at most 1 faggot posting on 4chan every 3 months at most
+05:29 #4chan: < mollypine> delusional
+05:29 #4chan: < BigAniki> unironic fags co-opting a system? woah
+05:29 #4chan: < slushybaka> wtf everyone is talking today
+05:29 #4chan: < mithrilpalisade> they're turning the freaking imageboards gay
+05:29 #4chan: < slushybaka> do we have a discord duo in here trolling us or something
+05:30 #4chan: < mollypine> 4chan has always had hoardes of gays you were just too stupid to realize it
+05:30 #4chan: < mule42> those were just women roleplaying as gays.
+05:30 #4chan: < BigAniki> oh shit, you mean they were all fucking each other in the ass and enjoyed posting and looking at cocks?!
+05:30 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:30 #4chan: < Shad0wMan> >slushybaka doesn't know
+05:30 #4chan: < BigAniki> damn bro that's wild
+05:30 #4chan: < Shad0wMan> slushybaka: site's been hacked
+05:30 #4chan: < Steve2> >discord due
+05:30 #4chan: < mollypine> next you're going to tell me 4chan used to be a christian site
+05:30 #4chan: < mollypine> dickhead
+05:30 #4chan: < Steve2> this shit site is run by discord
+05:30 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:31 #4chan: < mithrilpalisade> irc is discord for boomers fr
+05:31 #4chan: < BigAniki> next thing you're gonna tell me that people didn't use the word fag to insult newfags
+05:31 #4chan: < fuckingfuck> on god
+05:31 #4chan: < Shad0wMan> I'm a zoomer
+05:31 #4chan: < Shad0wMan> But I refuse to associate with other zoomers
+05:31 #4chan: < Shad0wMan> they disgust me
+05:31 #4chan: < Naemuti> i'm from gen beta
+05:31 #4chan: < mollypine> gay people call each other fag all the time what ar eyou on about
+05:31 #4chan: < Palomino> just 1 fag
+05:31 #4chan: < mollypine> like bro
+05:31 #4chan: <@fun> hey everyone
+05:31 #4chan: < Naemuti> will there be a gen sigma some day
+05:31 #4chan: <@fun> guys
+05:31 #4chan: < BigAniki> whatever you say fag
+05:31 #4chan: < Palomino> like accelspammer spamming everywhere
+05:31 #4chan: <@fun> is 4chan down?
+05:31 #4chan: < BigAniki> accelspammer is probably not a fag
+05:31 #4chan: < BigAniki> that's why he got banned
+05:31 #4chan: < Shad0wMan> maybe because they grew up with the switch and I grew up with the wii
+05:31 #4chan: < mule42> my generation has had 3 different names now, and i don't give a fuck none.
+05:32 #4chan: < mithrilpalisade> fun what's 4chan
+05:32 #4chan: < Naemuti> gen skibidi and gen ohio
+05:32 #4chan: < DarkDramatication> accelspammer < haven't heard that name for ages
+05:32 #4chan: < BigAniki> accelspammer seeing the faggotry is what probably got him into trolling
+05:32 #4chan: < Shad0wMan> I miss the wii/ds era
+05:32 #4chan: < mule42> i hear there's a lot of uncensored otomege on the switch that no one cares about.
+05:32 #4chan: < BigAniki> abib probably then turned into dark abib when he saw that people didn't like fags
+05:32 #4chan: < Palomino> of all places to read skibidi, i last expected it to be here.
+05:32 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:33 #4chan: < fuckingfuck> big skibidi energy in the chat
+05:33 #4chan: < Palomino> if accelspammer isn't a fag then why is he banned
+05:33 #4chan: < mule42> skubcore fnordmaxxing.
+05:33 #4chan: < Shad0wMan> okay, tendie console tierlist, go
+05:33 #4chan: < BigAniki> because most of the jannies are fags
+05:33 #4chan: < Naemuti> PC
+05:33 #4chan: < BigAniki> young cancerfags
+05:33 #4chan: < mollypine> jesus christ can you just fucking leave BigAniki you're trying too hard
+05:33 #4chan: < BigAniki> no way fag
+05:33 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:34 #4chan: <@fun> you're not gonna friggin believe this
+05:34 #4chan: < Steve2> j got leaked lol
+05:34 #4chan: <@fun> 4chan is down but i found such a cool site
+05:34 #4chan: <@fun> reddit.com
+05:34 #4chan: < Naemuti> waow
+05:34 #4chan: < BigAniki> bro i'm just fittin in and using the underground gay community's word "fag"
+05:34 #4chan: < mollypine> fun: tell me more
+05:34 #4chan: < Palomino> wait fun is asking if 4chan is down aren't you like..a mod wtf
+05:34 #4chan: < Naemuti> fun you win the internet have some bacon
+05:34 #4chan: < BigAniki> btw fags, you all lost the game
+05:34 #4chan: < fuckingfuck> when does the narwhal bacon lol
+05:34 #4chan: < Shad0wMan> S: GameCube, Wii, SNES, DS. A: N64, Wii U, NES, GBA, 3DS. B: Switch, Game Boy Color. C: Game Boy. D: Virtual Boy 
+05:34 #4chan: < Steve2> fuck you, its been a few weeks since I lost
+05:35 #4chan: < Shad0wMan> there's my tendie console tierlist
+05:35 #4chan: < mule42> the game doesn't run on my modern operating system.
+05:35 #4chan: < mollypine> ayo anyone have stairs in their house
+05:35 #4chan: < Naemuti> i warned you about stairs bro
+05:35 #4chan: < mollypine> Naemuti: oh little nooblet
+05:35 #4chan: < Shad0wMan> wait I forgot Game and Watch
+05:35 #4chan: < Naemuti> huh
+05:35 #4chan: < Shad0wMan> fuck
+05:35 #4chan: < Shad0wMan> ok, Game and Watch is uhhh
+05:35 #4chan: < Shad0wMan> B
+05:35 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:35 #4chan: < Steve2> >Gamecube in S
+05:35 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:35 #4chan: < Steve2> 1995-2000 detected
+05:36 #4chan: < Shad0wMan> Yes, I was born in 2000
+05:36 #4chan: < BigAniki> But for real, on god, (that's for you young cancerfags), you need to contain the unironic faggotry to /lgbt/
+05:36 #4chan: < BigAniki> the nsfw boards are flooded by literal faggotry
+05:36 #4chan: < Steve2> https://litter.catbox.moe/l41yyz.7z btw check this shit out, every /j/ thread going back to 2006 is now public
+05:36 #4chan: < mollypine> BigAniki: cool we'll start with sending you there
+05:36 #4chan: < Naemuti> imagine hating on the console that had wind waker though
+05:36 #4chan: < Naemuti> couldn't be me
+05:36 #4chan: < Steve2> zelda is very overrated
+05:36 #4chan: < fuckingfuck> i didnt realize they posted so much dolphin porn on /j/
+05:36 #4chan: < Shad0wMan> Luigi's Mansion is kino
+05:36 #4chan: < Naemuti> this guy fucks
+05:36 -!- TortillaRetreat [TortillaRe@Rizon-4F5C4197.rizonbnc.us.rizon.net] has joined #4chan
+05:36 #4chan: < DarkDramatication> Steve2 promise no virus?
+05:36 #4chan: < mollypine> winky face
+05:36 #4chan: < Steve2> its no virus, I ran it on my machine
+05:37 #4chan: < Steve2> its just html files
+05:37 #4chan: < mule42> gonna be a while before nintendo claims to own the name luigi again.
+05:37 #4chan: < mule42> we're gonna have to make our own new luigi's mansion.
+05:37 #4chan: < Naemuti> Mario in Luigi Partners in Time more like Partners in CRIME
+05:37 #4chan: < BigAniki> at least the hackers got good sense of music like night of nights
+05:37 #4chan: < Shad0wMan> luigi and diddy kong getting some bad reps lately fr
+05:37 #4chan: < BigAniki> unlike some adult swim gay unicorn game
+05:37 #4chan: < mollypine> free luigi
+05:37 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:38 #4chan: < Naemuti> there was a guy on the subway the other day listening to billy joel
+05:38 #4chan: < Steve2> WE WANT DIDDY
+05:38 #4chan: < Naemuti> i respect that
+05:38 #4chan: < mule42> unicorns are metal, fuck you very much.
+05:38 #4chan: < mithrilpalisade> stop being so silly
+05:38 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:38 #4chan: < Steve2> Nintendo is memoryholing diddy kong because of P Diddu
+05:38 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:38 #4chan: < Steve2> *diddy
+05:38 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:38 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:38 -!- Shrimploops [~Shrimploo@Rizon-9F7AC504.vermontel.net] has quit [Quit: Leaving]
+05:38 #4chan: < Naemuti> nintendo should give toad more games
+05:38 #4chan: < Naemuti> he only has one
+05:38 #4chan: < Shad0wMan> Nintendo, bring back the Kremlings and all other DKC characters in your new Donkey Kong game and I will forgive you for your sins
+05:38 #4chan: < BigAniki> imagine having 4chan be originally an anime focused site, only to be co-opted by /lgbt/ and western gay unicorn gaming
+05:38 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:39 #4chan: < BigAniki> I'm imagining the one piece cross dresses conducting this
+05:39 #4chan: < BigAniki> cross dressers*
+05:39 #4chan: < mollypine> imagine letting gays live rent free in your head
+05:39 #4chan: < mithrilpalisade> the gays must PAY
+05:39 #4chan: < Naemuti> "4chan isn't a gay website" my brother in christ this was your leader https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F000%2F406%2F516%2F509.jpg&f=1&nofb=1&ipt=f292df2552c46c7c82442e13dc3217ab015ba5d4f9334c84350c89a44736e328
+05:39 #4chan: < TortillaRetreat> Is sys down right now or something I can't even pull up captchas
+05:39 #4chan: < Steve2> down?
+05:39 #4chan: < Steve2> no its just you
+05:40 #4chan: < TortillaRetreat> I can lurk just fine I just can't post without a connection error
+05:40 #4chan: < hydrobuddypoke> strange, have you tried restarting your router
+05:40 #4chan: < Steve2> ^ do this
+05:40 #4chan: < fuckingfuck> you got trolled, 4chan was hacked
+05:40 #4chan: < BigAniki> Anyone else remember when /b/ used to have an epic prank call ventrilo that prank called the FBI hotline everyday?
+05:40 #4chan: < Shad0wMan> You know what's funny
+05:40 #4chan: < Steve2> HiroshimaNagasaki has a shitty password lole
+05:40 #4chan: < BigAniki> No all I remember is literal faggots posting cock pics instead
+05:40 #4chan: < Shad0wMan> Switch 2 has like, 3 kart racing games announced already
+05:40 #4chan: < Shad0wMan> 3 major kart racing games*
+05:40 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:41 #4chan: < Shad0wMan> mario kart world, sonic racing crossworlds, kirby air ride 2
+05:41 #4chan: < Shad0wMan> what's next?
+05:41 #4chan: < mule42> garfield kart is on every system.
+05:41 #4chan: < Shad0wMan> diddy kong racing?
+05:41 #4chan: < Steve2> Kirby Air Ride is gemmy, love that game
+05:41 #4chan: < Steve2> glad its getting a sequel
+05:41 #4chan: < Shad0wMan> diddy kong racing 2 would be blessed
+05:41 #4chan: < Steve2> its way better than Double Dash is
+05:41 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:41 #4chan: < Shad0wMan> yeah Steve2, sakurai coming back to kirby with Air Ride is epic
+05:41 #4chan: < fuckingfuck> diddy kong racing 2 except its a battle royale with seasonal battle passes and a ranking system
+05:41 #4chan: < Shad0wMan> Switch 2 has me having mixed feelings though
+05:41 #4chan: < Naemuti> super tux kart
+05:41 #4chan: < Shad0wMan> for obvious reasons
+05:41 #4chan: < mollypine> i will personally hold the switch 2 release hostage unless a new starfox and f-zero is announced
+05:42 #4chan: < Shad0wMan> good things being stuff like air ride 2 and whatnot
+05:42 #4chan: < Shad0wMan> bad things being the price and the fucking tech demo game being a separately sold game
+05:42 -!- AndyDufresne [~qwebirc@1799AA68.9044D81.BEF104AF.IP] has quit [Ping timeout: 240 seconds]
+05:42 #4chan: < Naemuti> switch 2 is such a rug pull
+05:42 #4chan: < mollypine> how lmao
+05:42 #4chan: < mollypine> the switch is old
+05:42 #4chan: < mollypine> it can't run new third party titles at all
+05:42 #4chan: < mule42> when profits lag on luxury goods, raise the price.
+05:42 -!- CuriousGorge [~qwebirc@610BEE85.554786DD.1D97B8BF.IP] has joined #4chan
+05:42 #4chan: < Naemuti> "the battery life is worse and btw the games aren't on the cartridges anymore! tee hee"
+05:42 #4chan: < BigAniki> pretty sure 4chan would still be up and running if we didn't have an /lgbt/ board nor literal fag posting
+05:43 #4chan: < Naemuti> i'm not gonna blame them for the tariffs but like cmon
+05:43 #4chan: < Shad0wMan> switch 2 is a monkey's paw moment
+05:43 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:43 #4chan: < Steve2> Switch 2 is gonna probably still sell well but not as well as the OG, probably a DS to 3DS situation
+05:43 #4chan: < BigAniki> and the cringejaks wouldn't have made a rival site to troll the gaylords
+05:43 #4chan: < Palomino> switch 2 more like bitch 2
+05:43 #4chan: < Shad0wMan> has good specs/tech and air ride 2, but awful pricing among other things
+05:43 #4chan: < Shad0wMan> also drag x drive looks retarded
+05:43 #4chan: < Naemuti> i'll buy a switch 2 if nintendo brings back custom robo
+05:44 #4chan: < Naemuti> that's my deal
+05:44 #4chan: < BigAniki> QUICK, someone spam and slide the channel with gay erotica
+05:44 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:44 #4chan: < BigAniki> it's lgbt friendly
+05:44 -!- Alok [~Alok@FBC1BE35.F1216304.966FDD6B.IP] has quit [Quit: Leaving]
+05:44 #4chan: < mithrilpalisade> biganiki yelling into the void about gays is making my night
+05:44 #4chan: < Naemuti> this is like the least convincing argument that you're not gay
+05:44 #4chan: < Naemuti> just sayin
+05:44 -!- OyashiroChama [~Oyashiro@hinamizawa.killerloli.auau] has quit [Ping timeout: 240 seconds]
+05:45 #4chan: < CuriousGorge> IRC is unusually lively today.
+05:45 #4chan: < Shad0wMan> gee i wonder why
+05:45 #4chan: < Naemuti> even detective gumshoe could crack this closet case wide open
+05:45 #4chan: < mule42> the moon is going to crash into the earth in 36 hours.
+05:45 #4chan: < BigAniki> the gay closet?
+05:45 #4chan: < Naemuti> mule42 let it
+05:45 #4chan: < Shad0wMan> mule42: SKULL KID NO!
+05:46 #4chan: < Naemuti> if i was link in majoras mask i would simply do nothing
+05:46 -!- Rikis [Beherit@Twilight.Sparkle] has joined #4chan
+05:46 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:46 #4chan: < mollypine> if the moon crashes into termina does it also crash into hyrule
+05:46 #4chan: < BigAniki> God I wish I had HIV
+05:46 #4chan: < fuckingfuck> me too
+05:46 #4chan: < BigAniki> I would identify being gay
+05:46 #4chan: < mule42> why isn't there pron of skullkid violating sailor moon, or of usagi being corrupted by the mask?
+05:46 #4chan: < mollypine> mule42: you're free to draw it
+05:46 #4chan: < Shad0wMan> wasn't there a theory that majora's mask is actually a metaphor for the stages of grief and that link is actually dead or something
+05:47 #4chan: < Shad0wMan> stupid theory but
+05:47 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:47 #4chan: < BigAniki> Oh wait I have HIV and I'm gay, so I'm gonna take it out on 4chan by nonstop posting cocks on every nsfw board
+05:47 #4chan: < mollypine> that is a stupid theory
+05:47 #4chan: < BigAniki> bugspreading much?
+05:47 #4chan: < fuckingfuck> tell me more about your HIV infested semen 
+05:47 #4chan: < mithrilpalisade> how could the gays do this to us
+05:47 #4chan: < BigAniki> actually nvm
+05:48 #4chan: < BigAniki> I'm a woman, and also lesbian, cause I have no game with real women
+05:48 #4chan: < BigAniki> i'll just guilt trip them into having sex with me
+05:48 #4chan: < Shad0wMan> btw
+05:48 #4chan: < BigAniki> ur gay?
+05:48 #4chan: < Shad0wMan> does anyone consider DS as retro?
+05:49 #4chan: < fuckingfuck> at this point i guess i would
+05:49 #4chan: < Naemuti> no because that would make me turn to dust instantly
+05:49 #4chan: < Steve2> 21 years old but will never be retro
+05:49 #4chan: < mollypine> yes
+05:49 #4chan: < CuriousGorge> we're old
+05:49 #4chan: < Steve2> retro is more of a time period than age
+05:49 #4chan: < mollypine> that is such cope lol
+05:49 #4chan: < Palomino> sounds like cope
+05:49 #4chan: < Naemuti> retro is an aesthetic
+05:49 #4chan: < Shad0wMan> the ds is older than the gameboy was when the ds came out tho
+05:49 #4chan: < mithrilpalisade> the 360 is on the cusp of being retro
+05:49 #4chan: < mule42> if i can fuck someone who thinks it's really old, it's retro.
+05:49 #4chan: < Palomino> that's why /vr/ is so dead
+05:50 #4chan: < Steve2> nobody considers the xbox 360 to be retro even though its release and now are basically the same time as the snes release and it
+05:50 #4chan: < Shad0wMan> i remember posting on /vr/ saying "DS is retro" and getting banned for it lol
+05:50 #4chan: < Steve2> it had fucking halo 3
+05:50 #4chan: < Naemuti> halo, more like gaylo
+05:50 #4chan: < mollypine> Shad0wMan: it is a very asinine rule yes
+05:50 #4chan: < Steve2> halo is aryan, shush
+05:50 #4chan: < Steve2> but retro is a mindset
+05:50 #4chan: < Palomino> what's retro will adjust in time
+05:50 #4chan: < Steve2> https://www.youtube.com/watch?v=xSHYFQ_LUIk
+05:50 #4chan: < mollypine> people born after the 360's release are old enough to post on the site. it's retro 
+05:50 #4chan: < mule42> ass9 from outer space. get mooned.
+05:50 #4chan: < Naemuti> i'm talkin bout dat ps triple
+05:50 #4chan: < Shad0wMan> mollypine, aw fuck
+05:51 #4chan: < Palomino> should be 90s-00s vidya : ^)
+05:51 #4chan: < Shad0wMan> Just realized that now
+05:51 #4chan: < fuckingfuck> warioware stick it up your own ass game
+05:51 #4chan: < Shad0wMan> some alphoomers are now old enough to post on 4chan
+05:51 #4chan: < Shad0wMan> I FEEL OLD
+05:51 #4chan: < Steve2> >mfw the xbox 360 is older than you but you aren't underaged anymore
+05:51 #4chan: < Shad0wMan> AND I'M ONLY 25
+05:51 #4chan: < mollypine> christ
+05:51 #4chan: < fuckingfuck> soon you will be 35 in a blink of an eye
+05:51 #4chan: < drwho> Gay Alchemy
+05:51 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:51 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:51 #4chan: < Naemuti> yeah wait until you hit your 30s
+05:51 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:51 #4chan: < Naemuti> it gets worse trust me
+05:51 #4chan: < BigAniki> actually i lied guys i'm secretly gay
+05:51 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:51 #4chan: < mollypine> i've been here over 20 fucking years i hate it
+05:51 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:51 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:51 #4chan: < fuckingfuck> and youll realize you are no longer part of the younger generation 
+05:51 #4chan: < Shad0wMan> https://files.catbox.moe/mft9wc.png
+05:51 #4chan: < drwho> Gay Freemasons
+05:52 #4chan: < fuckingfuck> and everything feels different
+05:52 #4chan: < Naemuti> that fact also makes me turn to dust mollypine 
+05:52 #4chan: < BigAniki> So how many younger generations have we groomed today?
+05:52 #4chan: < mule42> jesus can duplicate any sea creature, and aquaman can command any sea creature.
+05:52 #4chan: < Steve2> haha old fucks
+05:52 #4chan: < BigAniki> I only got 1 last week
+05:52 #4chan: < Palomino> there are anons who died before this hack even happened...
+05:52 #4chan: < Palomino> rip
+05:52 #4chan: < Naemuti> i started posting in, i wanna say, 2006
+05:52 #4chan: < mule42> but aquaman is a sea creature.
+05:52 #4chan: < Naemuti> 2 0 0 6
+05:52 #4chan: < Steve2> I started posting on 4chan regularly in 2020 and I don't feel remorse for being a newfag 
+05:52 #4chan: < mollypine> Naemuti: wtf you're like years younger than me
+05:52 #4chan: < mule42> so if jesus duplicated him, which one would be in command?
+05:52 #4chan: < Naemuti> how old are you again
+05:52 #4chan: < Shad0wMan> 2019 iirc
+05:52 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:52 #4chan: < drwho> I first posted on 4chan in 2004
+05:52 #4chan: < BigAniki> Steve2, you missed out when the site wasn't gay and didn't have an /lgbt/ board
+05:52 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:52 #4chan: < mollypine> 69 haha nice
+05:52 #4chan: < Naemuti> ik ook xdd
+05:52 #4chan: < fuckingfuck> the good old straight days 
+05:53 #4chan: < Steve2> I was too young at the time
+05:53 -!- xDemonessx [~Demoness@de.mon.ess] has joined #4chan
+05:53 #4chan: < BigAniki> the only gay board there was back then was /z/
+05:53 #4chan: < mithrilpalisade> the fucking gays ruined everything
+05:53 #4chan: < fuckingfuck> back when people still posted cheese pizza on /b/
+05:53 #4chan: < BigAniki> no feds took over /b/
+05:53 #4chan: < BigAniki> they probably post their cocks on their themselves
+05:53 #4chan: < BigAniki> there*
+05:54 #4chan: < BigAniki> make prank calling feds great again
+05:54 #4chan: < Naemuti> lets prank call Hal Turner again
+05:54 #4chan: < Naemuti> that was fun
+05:54 #4chan: <@fun> ?
+05:54 -!- lunasena [~qwebirc@Rizon-EBA0DB4C.res.spectrum.com] has quit [Ping timeout: 240 seconds]
+05:54 #4chan: <@fun> what was i?
+05:54 #4chan: < fuckingfuck> lets explode a van, make the lie real
+05:54 #4chan: < mule42> if the feds ran a competing chan using one of those foss clones to offer a public alternative to private social media, i'd probably lurk there a minute.
+05:54 #4chan: < Shad0wMan> flint and steel!
+05:55 #4chan: < Shad0wMan> I clapped when jackblack screamed "MINECRAFT" at the end
+05:55 #4chan: < Palomino> i clapped when pitbull was sent to alaska
+05:55 #4chan: < mollypine> i shidded and camed
+05:55 #4chan: < mollypine> just a little bit
+05:55 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:56 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:56 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:56 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:56 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:56 #4chan: < mollypine> they're going to be making a fortnite movie apparently
+05:56 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:56 #4chan: < Shad0wMan> btw what's with this guy constantly joining and quitting lol
+05:56 #4chan: < Shad0wMan> does he have bad internet
+05:56 #4chan: < mollypine> they're on that phone tho
+05:56 #4chan: < Steve2> hang mobileposters and tar their cadavers
+05:57 #4chan: < mollypine> finally a good opinion
+05:57 #4chan: < fuckingfuck> forget the gays, mobileposters are the real evil
+05:57 #4chan: < Shad0wMan> who posts on 4chan on their phone anyways
+05:57 #4chan: < fuckingfuck> a lot of people
+05:57 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+05:57 #4chan: < Shad0wMan> sounds like it'd be unideal
+05:57 #4chan: < mollypine> enough people that i've never lived anywhere that wasn't ranged banned on cell
+05:57 #4chan: < Naemuti> i use 4chan on my flip phone
+05:57 #4chan: < mule42> if only mobile posters and vips could see mobile posts, no ad revenue would be lost.
+05:57 #4chan: < Shad0wMan> especially when privacy is a concern
+05:57 #4chan: < Steve2> its a lot of turd worlders
+05:57 #4chan: < Shad0wMan> people can just look over your shoulder and notice you're shitposting on /v/
+05:57 #4chan: < BigAniki> all the straight people on 4chan post on their phone because they get banned for not being gay
+05:57 -!- Snowshoe [~mint@mintosoft.net] has quit []
+05:57 #4chan: < BigAniki> sad
+05:58 #4chan: < Steve2> I can actually post off of an AT&T mobile IP near my college
+05:58 #4chan: < mollypine> nah basically everywhere public is range banned from the site
+05:58 #4chan: < mollypine> it's not like it used to be 
+05:58 #4chan: < mollypine> i do remember when that was possible
+05:58 #4chan: < Steve2> damn its nice living in a backwater region
+05:59 #4chan: < mithrilpalisade> gay phone posters, that's the big evil
+05:59 #4chan: < Naemuti> remember just googling list of proxies in high school to get around the filter and clicking on one and putting in 4chan and it would take like 15 minutes to find one that wasn't banned and then you found one that worked and it would be dog shit slow 
+05:59 #4chan: < mollypine> there was another /vt/ poster who got our area's cell network range banned. they were a kiara stan
+05:59 #4chan: < Steve2> every public IP I use isn't ranged
+05:59 #4chan: < Naemuti> better times
+05:59 -!- newfriend [~qwebirc@Rizon-E04E7B58.dyn.ip.vocus.au] has joined #4chan
+05:59 #4chan: < mule42> live into the cyberpunk era, but in a puddle in louisianna. i think there's a game about that setup.
+05:59 #4chan: < mollypine> i know because i was able to see the bans they gathered before the range ban
+05:59 #4chan: < TortillaRetreat> Yeah I rebooted the router it's still dogshit slow and not connecting
+05:59 #4chan: < BigAniki> sometimes i wish i was a 4chan moderator so i could unban the straight users
+05:59 #4chan: < fuckingfuck> i remember proxy hunting, except i was just trying to play flash games
+05:59 #4chan: < TortillaRetreat> Guess I'm fucked
+05:59 #4chan: < mollypine> no way lol
+05:59 #4chan: < mollypine> guys we have to tell them
+06:00 #4chan: < Shad0wMan> do we tell him?
+06:00 #4chan: < Shad0wMan> does he know?
+06:00 #4chan: < mollypine> TortillaRetreat: the site is down because it's hacked
+06:00 #4chan: < mule42> let him dream.
+06:00 #4chan: < Naemuti> 4chan is down because they're upgrading the mac minis to M4s finally
+06:00 #4chan:  * Palomino sleep
+06:00 #4chan: < Shad0wMan> eww, mac users
+06:00 #4chan: < mithrilpalisade> 4chan is down because they gays killed it
+06:00 #4chan: < BigAniki> 4chan is down because moderators played favourites to the gays
+06:00 #4chan: < mollypine> actually it's down because they're rolling the mandatory pronouns update
+06:00 #4chan: < newfriend> who spuh here
+06:00 #4chan: < slushybaka> 4chan is not down, I just jorked it
+06:01 #4chan: < Steve2> I love 4chan and its great administrator
+06:01 #4chan: < mule42> 4chan is calling the moon down to crush us all.
+06:01 #4chan: < BigAniki> what's this double standard btw?
+06:01 #4chan: < mollypine> i didn't think it was possible to use color codes on this channel
+06:01 #4chan: < Naemuti> me neither
+06:01 #4chan: < slushybaka> https://4chan.org/ refresh this page for new threads
+06:01 #4chan: < mollypine> ??
+06:01 #4chan: < BigAniki> Why is there a double standard of /lgbt/ users cross posting into every nsfw board, while /qa/ posters couldn't crosspost into /lgbt/
+06:01 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:01 #4chan: < BigAniki> bigot much?
+06:01 #4chan: < Steve2> You need to BELIEVE
+06:02 #4chan: < drwho>  they changed it a while ago
+06:02 #4chan: < Steve2> btw parappa is the only good gaystation game that isn't helldivers 2
+06:02 #4chan: < mollypine> they shuold change it back
+06:02 #4chan: < mule42> shadowhearts 3, tho.
+06:02 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:02 #4chan: < mollypine> Steve2: wrong idiot armored core 2
+06:02 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:02 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:02 #4chan: < Shad0wMan> dark cloud 2 seems cool
+06:02 #4chan: < Steve2> I never played armored cored 2, I've only played the new one
+06:02 #4chan: < Steve2> *core
+06:02 #4chan: < Shad0wMan> I haven't played it in full yet tho
+06:02 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:02 #4chan: < mollypine> 2 is my favorite of the classic series
+06:02 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:03 #4chan: < Steve2> can a janitor ban this mobilefag already?
+06:03 #4chan: < mollypine> 3 is technically a better game but i just like the tightness of the direction of 2 more
+06:03 #4chan: < Steve2> janjans wake up
+06:03 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:03 #4chan: < Shad0wMan> wild arms is another series I'd like to get into
+06:03 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:03 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:03 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:03 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:03 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:03 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:03 #4chan: < Shad0wMan> literally jrpgs but with cowboys
+06:03 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:03 #4chan: < Shad0wMan> that's the sickest shit ever
+06:03 #4chan: < Steve2> you know I would like to try metal gear, I only played the first game and never enjoyed it, that's a psx exclusive
+06:03 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:03 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:03 #4chan: < mollypine> Steve2: type /ignore Snowshoe
+06:03 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:03 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:03 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:03 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:04 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:04 #4chan: < Steve2> thx
+06:04 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:04 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:04 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:04 #4chan: < Shad0wMan> mollypine: that doesn't work
+06:04 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:04 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:04 #4chan: < Steve2> you know that doesn't do shit
+06:04 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:04 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:04 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:04 -!- Snowshoe [~mint@mintosoft.net] has quit []
+06:04 #4chan: < mollypine> Shad0wMan: it does in a real client (irssi)
+06:04 #4chan: < Steve2> it may be my client idk
+06:04 #4chan: < mule42> shadowhearts 3 is jrpg w/ american gangsters.
+06:04 #4chan: < Shad0wMan> damn
+06:04 #4chan: < Steve2> I use hexchat because free = good
+06:04 #4chan: < BigAniki> Just wondering is the janitor and moderator application with real name submission needed because it's like jews getting dirt on us politicians via underaged prostitutes?
+06:04 #4chan: < mollypine> you'll have to look up the equivalent command
+06:05 #4chan: < Naemuti> weechat is also free
+06:05 #4chan: < Shad0wMan> another JRPG that's good is Live A Live
+06:05 #4chan: < Steve2> I submitted to be a tranitor one time but my email forwarder shut down before I ever had the chance to hear back
+06:05 #4chan: < BigAniki> weechat is CLI trash
+06:05 #4chan: < Shad0wMan> I played the SNES version a while back and loved it
+06:05 #4chan: < Naemuti> this mf too stupid to type letters
+06:05 #4chan: < Naemuti> lmao
+06:05 #4chan: < slushybaka> do we still get kciked for saying cuck
+06:05 #4chan: < slushybaka> the fuck
+06:05 #4chan: < mollypine> whoa
+06:05 #4chan: < mollypine> what the fuck is going on
+06:05 #4chan: < slushybaka> the ides of april
+06:05 #4chan: < Shad0wMan> Live a Live is kino
+06:06 #4chan: < Shad0wMan> also has cowboys, ninjas, robots, martial artists, etc
+06:06 #4chan: < BigAniki> Just curious, do all janitors and moderators share the same political spectrum?
+06:06 #4chan: < mollypine> these are mysterious times
+06:06 #4chan: < Steve2> yes, they are all soyboy democrats
+06:06 #4chan: < BigAniki> Or is it just like google with the silent majority not saying anything
+06:06 #4chan: < mollypine> what
+06:06 #4chan: < Naemuti> wow we can say the c word again, this is literally 4891
+06:06 #4chan: < BigAniki> They're too scared to say things otherwise risk losing their position of jannying/moderating
+06:07 #4chan: < Steve2> https://x.com/CombatDevolved/status/1910345969704784204
+06:07 #4chan: < BigAniki> IIRC abib doesn't like certain groups of people
+06:07 #4chan: < slushybaka> someone on hackernews said FOURCHAN HACKED
+06:07 #4chan: < mollypine> oh nawr
+06:07 -!- newfriend [~qwebirc@Rizon-E04E7B58.dyn.ip.vocus.au] has quit []
+06:07 #4chan: < Naemuti> not orange site!
+06:08 #4chan: < slushybaka> i mean
+06:08 #4chan: < slushybaka> they're the hackers
+06:08 #4chan: < slushybaka> telling us the news
+06:08 #4chan: < BigAniki> evil nazi site (that's actually gay) is hacked by bigger evil nazi site
+06:08 -!- anon1 [~qwebirc@442D52F4.241FAC53.46F84FBA.IP] has joined #4chan
+06:08 #4chan: < mithrilpalisade> what boards do you browse, biganiki
+06:08 #4chan: < anon1> what happened to 4chan
+06:09 #4chan: < BigAniki> probably just /a/ /v/ /g/, sometimes /cgl/
+06:09 -!- Snowshoe [~mint@mintosoft.net] has joined #4chan
+06:09 #4chan: < BigAniki> and rarely other boards like /trv/
+06:09 #4chan: < mollypine> anon1: mandatory pronoun update being rolled out; it'll be back up in an hour
+06:09 #4chan: < Shad0wMan> anon1, nothing ever happens
+06:09 #4chan: < drwho> IT WAS ALIENS
+06:09 #4chan: < Snowshoe> It was ancient aliens
+06:09 #4chan: < BigAniki> tbh i lost interest in most of the site, shounen posting
+06:09 #4chan: < mollypine> oh you're totally a /cgl/ user that makes sense for you
+06:09 -!- newfriend [~brev@samefriend.org] has joined #4chan
+06:09 #4chan: < Steve2> if you don't browse aryanchow boards like /3/ and /f/ you aren't channing
+06:09 #4chan: < Naemuti> for april fools day next year they should give 4chan a forum style sheet and make up names and avatars and join dates for everyone
+06:09 #4chan: < Naemuti> and then just leave it
+06:09 #4chan: < mollypine> i get it now
+06:10 #4chan: < BigAniki> and /v/ being goon posting turning into /b/ goon posting
+06:10 #4chan: < Shad0wMan> Naemuti, that'd be funny
+06:10 #4chan: < BigAniki> muh weg threads
+06:10 -!- DEAFTONEGOES [~jordan@4AB8DA03.ADE6CF2C.CD028A30.IP] has quit [Ping timeout: 240 seconds]
+06:10 #4chan: < Shad0wMan> another april fools joke could be reddit karma lmao
+06:10 #4chan: < Shad0wMan> though I think that was already done
+06:10 #4chan: < mollypine> didn't they do that already
+06:11 #4chan: < slushybaka> did soyjak party rehost the website on a raspberry pi
+06:11 #4chan: < BigAniki>  /f/ is dead
+06:11 #4chan: < BigAniki> it's just the same old flash from 15-20+ years ago
+06:11 #4chan: < BigAniki> lolicatgirls etc
+06:11 #4chan: < mollypine> you know why that is right?
+06:11 #4chan: < drwho> world4ch
+06:11 #4chan: < Steve2> flash is dead, not just flash
+06:12 #4chan: < BigAniki> more like OC is dead on the site from the constant fags posting
+06:12 #4chan: < BigAniki> and the constant gooners
+06:12 #4chan: < Steve2> great statement steve, that makes sense
+06:12 #4chan: < Naemuti> la la la lava ch ch ch chicken
+06:12 #4chan: < Shad0wMan> jockey
+06:12 #4chan: < newfriend> this thing glows
+06:12 #4chan: < slushybaka> what happened to those third party sites like overchan/uberchan or whatever that just framed all the other ones
+06:12 #4chan: < slushybaka> made it so nice
+06:13 #4chan: < Veinfag> BigAniki, i think i have seen like 3 new flashes this year that wasnt just a video in .swf form
+06:13 #4chan: < BigAniki> anyway a lot of poor decisions, gamer gate shit with defending a single whore (which mootkins attended her panel), and /lgbt/ onboarding, /soc/, etc
+06:13 #4chan: < fifel> BigAniki: And you’d follow.  And not think.  About tomorrow.  Everything is perfect now.
+06:14 #4chan: < mollypine> yeah you're definitely a /cgl/ user
+06:14 #4chan: < Naemuti> gamers got mad about a visual novel and now the switch 2 costs $900
+06:14 #4chan: < Naemuti> incredible trajectory of events
+06:14 #4chan: < BigAniki> nah i don't post on /cgl/
+06:14 #4chan: < BigAniki> i just go on it to check cons sometimes
+06:14 #4chan: < mollypine> yes i know the type
+06:14 #4chan: < BigAniki> i don't cosplay, i wear polo shirts
+06:14 #4chan: < Shad0wMan> that tiny subplot in the minecraft movie where some whore school principal dates a minecraft villager was weird
+06:14 #4chan: < mollypine> i went to a /cgl/ meetup at a bar once and after the normal people left it was just the drunk assholes in a circle sieg heiling
+06:14 #4chan: < BigAniki> to cover my chest swastika tattoo
+06:15 #4chan: < mollypine> i wish i was making that up
+06:15 #4chan: < mollypine> believe me, i know the type
+06:15 #4chan: < Naemuti> they should make an entire Hallmark movie about the villager dating the prinipal
+06:15 #4chan: < BigAniki> i think the people that lost out on 4chan the most was the female userbase
+06:15 #4chan: < BigAniki> it got decimated heavily
+06:16 #4chan: < mollypine> i wonder why
+06:16 #4chan: < BigAniki> dick picks
+06:16 #4chan: < BigAniki> nonstop dick pics
+06:16 #4chan: < fuckingfuck> big gay penises everywhere 
+06:16 #4chan: < fuckingfuck> throbbing
+06:16 #4chan: < fuckingfuck> dripping
+06:16 #4chan: < Shad0wMan> lmao there's a guy in the user list named ButchDeLoria
+06:16 #4chan: < Shad0wMan> I understood that reference
+06:16 #4chan: < BigAniki> a real women is like a dimmer switch, not an on/off switch like a male
+06:16 #4chan: < Naemuti> ma'am this is a Home Depot
+06:16 #4chan: < mollypine> tell me more about real women
+06:16 #4chan: < BigAniki> so seeing a cock pic will gross her out
+06:17 #4chan: < mithrilpalisade> now we're talking about cocks
+06:17 #4chan: < fuckingfuck> they say real women dont have penises which i find hard to believe 
+06:17 #4chan: < Naemuti> agreed
+06:17 #4chan: < Naemuti> all the women i've ever met have one
+06:17 #4chan: < Naemuti> do we know if vaginas even exist
+06:17 #4chan: < Shad0wMan> honestly
+06:17 #4chan: < fifel> According to French theorist Lacan, vaginas don’t exist.
+06:17 #4chan: < fifel> Because women don’t exist
+06:18 -!- beentheredonethat [~qwebirc@Rizon-730C2B2D.ctinets.com] has joined #4chan
+06:18 #4chan: < mollypine> lacan never saw pussy, you don't say
+06:18 #4chan: < Shad0wMan> This is how my night was supposed to go: Post on /agdg/, get advice, jerk off to h-games, go to sleep
+06:18 #4chan: < BigAniki> alright that's enough posting for me, i gotta go work
+06:18 #4chan: < beentheredonethat> is it over?
+06:18 #4chan: < fifel> mollypine: I’m sure he saw plenty of vulva
+06:18 #4chan: < Shad0wMan> now I'm up all night waiting for the site to go back up
+06:18 #4chan: < BigAniki> btw plz contain the unironic literal fags to /lgbt/
+06:18 #4chan: < fifel> but they’re men’s vulvas because women don’t exist.
+06:18 #4chan: < mollypine> BigAniki: i'm sure they'll welcome you with open arms
+06:18 #4chan: < mithrilpalisade> but can the ironic fags stay?
+06:18 #4chan: < BigAniki> don't make /b/ into a honey pot goon posting board like the thousnads of other porn boards we have
+06:18 #4chan: < BigAniki> and separate the fags from /soc/
+06:19 #4chan: < mollypine> the content of /b/ is a serious matter
+06:19 -!- BigAniki [~user1234@some.big.guy] has quit [Quit: Leaving]
+06:19 #4chan: < Shad0wMan> it's already midnight where I am
+06:19 -!- Rikis [Beherit@Twilight.Sparkle] has quit [Ping timeout: 240 seconds]
+06:19 #4chan: < mule42> i know.
+06:19 #4chan: < Shad0wMan> my sleep schedule is gonna be all outta wack
+06:19 #4chan: < Naemuti> it's 2 am here
+06:19 #4chan: < Veinfag> Time to sleep
+06:19 #4chan: < Naemuti> here's how my night is going: watching air disasters and shitposting on irc
+06:20 #4chan: < Steve2> >25 and cooming to hentai games
+06:20 #4chan: < Steve2> kys and soft reset life
+06:20 #4chan: < mollypine> lol
+06:20 #4chan: < Veinfag> Steve2, VR broke me
+06:20 #4chan: < Shad0wMan> but what if something happens while I'm asleep
+06:20 #4chan: < Steve2> load your last quicksave nigga
+06:20 #4chan: < Shad0wMan> Steve2 that was mostly a joke
+06:20 #4chan: < Steve2> you can't persist in this doomed world
+06:20 #4chan: < Veinfag> I cant masturbate without a huge breasted anime girl in Koikatsu VR
+06:20 #4chan: < mollypine> based as shit
+06:20 #4chan: < mollypine> thank you for your service
+06:20 #4chan: < Shad0wMan> Wish I didn't sell my vr headset
+06:21 #4chan: < Shad0wMan> actually I wish I didn't sell off most of the stuff I had
+06:21 #4chan: < Naemuti> i can't masturbate without pretending the person i'm zerking off to is blood related
+06:21 #4chan: < Shad0wMan> kinda retarded of me
+06:21 #4chan: < slushybaka> you think you took the headset off?
+06:21 #4chan: < mollypine> Naemuti: you can't just say things like that
+06:21 #4chan: < Naemuti> which part of it
+06:21 #4chan: < Veinfag> On the good side, it made me masturbate way less and get fit again
+06:21 #4chan: < mollypine> all of it
+06:21 #4chan: < Naemuti> look i'm a jerma fan ok get over it
+06:22 #4chan: < Shad0wMan> the sus guy
+06:22 #4chan: < Veinfag> Didnt he retire already
+06:22 #4chan: < Veinfag> like for 4th time
+06:22 #4chan: < mollypine> yeah
+06:22 #4chan: < mule42> the giant enemy crab guy still streams.
+06:22 #4chan: < Shad0wMan> he streamed chrono trigger just yesterday it looks like
+06:23 #4chan: < anon1> do we know when its coming back?
+06:23 #4chan: < fuckingfuck> no
+06:23 #4chan: < Veinfag> anon1, its like midnight
+06:23 #4chan: < mule42> we're waiting on NASA to make an announcement.
+06:23 #4chan: < Veinfag> Its not coming back anytime soon
+06:23 #4chan: < anon1> its over
+06:24 #4chan: < Veinfag> Atleast it wasnt at the weekend
+06:24 #4chan: < fuckingfuck> the jannies have been doxxed, the shitty php source code has been leaked, 4chan is done
+06:24 #4chan: < mule42> that would have been funnier. imagine the backwash on 'those sites'.
+06:24 #4chan: < Steve2> whoever at adobe decided that undo should be ctrl+shift+z instead of ctrl+y needs to be hung
+06:24 -!- vkat [~subst@2D1E1584:57C8B754:52F68391:IP] has joined #4chan
+06:24 #4chan: < vkat> did you queers break pol again
+06:25 #4chan: < newfriend> yeah but how will this affect lebron's legacy
+06:25 #4chan: < drwho> 4chan should have stayed in Perl
+06:25 #4chan: < Naemuti> drwho it'd be write only then
+06:25 #4chan: < drwho> GOOD
+06:25 #4chan: < Naemuti> 4chan should be written in rpgle
+06:25 #4chan: < drwho> GOOD
+06:25 #4chan: < mule42> perl is a slut.
+06:26 #4chan: < drwho> Naemuti, you crazy
+06:26 #4chan: < Veinfag> Atleast i have MMD and series i didnt watch last season to pass the time
+06:26 #4chan: < Veinfag> This anime season looks like shit
+06:26 #4chan: < Veinfag> and like shit shit, not the usual seasonal shit from every year
+06:27 #4chan: < drwho> 4chan actually should be written in a functional programming language like haskell. The use of posting nomads would optimize the throughput of shitposting shitting dick nipples
+06:27 #4chan: < Naemuti> drwho COLUMN-LIMITED
+06:27 #4chan: < drwho> AHHHH
+06:27 #4chan: < fuckingfuck> 4chan should be reimplemented in unreal engine 5
+06:28 #4chan: < drwho> and made in glorious C++
+06:28 #4chan: < Shad0wMan> 4chan should be rewritten in
+06:28 #4chan: < Shad0wMan> ANSI C
+06:28 #4chan: < Naemuti> scratch
+06:28 #4chan: < mule42> 4chan running as a skyrim mod on a virtual server in wabbajack.
+06:28 #4chan: < Shad0wMan> no, not rust
+06:28 -!- beentheredonethat [~qwebirc@Rizon-730C2B2D.ctinets.com] has quit [Quit: Page closed]
+06:28 #4chan: < Shad0wMan> ANSI C
+06:28 #4chan: < drwho> Java
+06:28 #4chan: < Veinfag> Unity Desktop client
+06:28 #4chan: < drwho> org.com.4chan.org.MainProcess
+06:29 #4chan: < Naemuti> 4chan as a doom level
+06:29 #4chan: < Naemuti> shoot posts to report them
+06:29 #4chan: < mule42> f: i=(0) { malloc(i) ;} ;f()
+06:29 #4chan: < Steve2> 4chan as a halo reach forge map
+06:29 #4chan: < Shad0wMan> 4chan as a minecraft redstone circuit
+06:29 #4chan: < fuckingfuck> in the java client 
+06:29 #4chan: < drwho> 4chan as a state of mind, man
+06:30 #4chan: < Naemuti> just realized i shamelessly ripped off the idea of psdoom
+06:30 #4chan: < Shad0wMan> I'm so bored
+06:30 #4chan: < drwho> play Doom
+06:30 #4chan: < mule42> doom running in html5 in a shitpost in /ic/.
+06:31 #4chan: < drwho> I was playing through Doom 2 recently
+06:31 #4chan: < vkat> ruby doesn't have this problem 
+06:31 #4chan: < drwho> going to go through the expansions
+06:31 #4chan: < fuckingfuck> doom is old, everyone now plays AI quake
+06:31 #4chan: < drwho> well I am old
+06:31 #4chan: < slushybaka> anyone who has written perl more than one time or once a year can read it just fine
+06:31 #4chan: < Shad0wMan> I played a bit of radiant historia yesterday
+06:31 #4chan: < Shad0wMan> it was neat
+06:31 #4chan: < Shad0wMan> only played the prologue so far though
+06:31 #4chan: < fuckingfuck> ive never written perl
+06:31 #4chan: < Shad0wMan> (first time playing ofc)
+06:31 #4chan: < slushybaka> programming is an annoying boutique industry that pretends it's not turbosolved
+06:32 #4chan: < mollypine> my watch got reset somehow
+06:32 #4chan: < mollypine> i think it's aliens
+06:32 #4chan: < slushybaka> mollypine: what kind of reset
+06:32 #4chan: < mule42> slushybaka, gotta get paid.
+06:32 #4chan: < Naemuti> slushybaka none of those words are in the bible
+06:32 #4chan: < slushybaka> agreed, mule42 
+06:32 #4chan: < mollypine> i've been thinking about it all day and i just can't cmoe up with any other explanation
+06:32 #4chan: < mollypine> slushybaka: my g-shock was set back to its factory time
+06:32 #4chan: < Naemuti> programming is fun and anyone who gets excited by generative AI is a loser desu
+06:32 #4chan: < Naemuti> mmmmmm slop
+06:32 #4chan: < slushybaka> mollypine: what the sigma
+06:32 #4chan: < slushybaka> that's aliens
+06:33 #4chan: < mollypine> that's what i'm saying!!
+06:33 #4chan: < fuckingfuck> cosmic rays
+06:33 #4chan: < mule42> i wonder what sex acts aren't in the bible. a lot are just to be forbidden.
+06:33 #4chan: < slushybaka> Naemuti: programming is made to look fun to lower wages
+06:33 #4chan: < drwho> why does the biblically realistic angels look like AI slop
+06:33 #4chan: < Naemuti> everyone i know that programs makes bank though
+06:33 #4chan: < mollypine> they used to
+06:33 #4chan: < slushybaka> and making bank surely is fun, right?
+06:33 #4chan: < slushybaka> ...right?
+06:34 #4chan: < fuckingfuck> i used to make money programming, but then i got laid off in a big layoff wave
+06:34 #4chan: < mule42> and now you fight crime.
+06:34 -!- mithrilpalisade [~qwebirc@Rizon-E09B6B11.cpe.net.cable.rogers.com] has quit [Quit: Page closed]
+06:34 #4chan: < slushybaka> if you think a scrape-by wage according to 70s standards is "making bank" i have a society to sell you
+06:34 #4chan: < Shad0wMan> we live in a society
+06:34 #4chan: < drwho> bro
+06:34 #4chan: < mollypine> but at least we have drones now
+06:34 #4chan: < drwho> woahhh
+06:34 #4chan: < mule42> give me a society without bras.
+06:34 #4chan: < Naemuti> the manzier
+06:35 #4chan: < drwho> get a job at Palantir
+06:36 #4chan: < slushybaka> remember when they sold this entire channel on the idea of online interactions being entertaining and meaningful
+06:36 #4chan: < slushybaka> and now if you comment anything on tiktok you get "bro :skull emoji:"
+06:36 #4chan: < drwho> wha
+06:36 -!- eise [~eise8@52E66DBA:14AD3E87:A26E2254:IP] has joined #4chan
+06:36 #4chan: < slushybaka> they being "the people online spending a disproportionate amount of time there because it was easier than meeting at the library"
+06:36 #4chan: < Shad0wMan> tiktok is slop
+06:37 #4chan: < Naemuti> there's more and more outlets competing for attention and in order to consume all of it things have to be shorter and shorter
+06:37 #4chan: < mule42> is tiktok the pedo instagram? i can't keep up with this shit.
+06:37 #4chan: < slushybaka> Naemuti: you weren't competing for attention in 2009
+06:37 #4chan: < slushybaka> they just want you to think that
+06:37 #4chan: < Naemuti> yeah and was everyone watching tiktok and snapchat and youtube shorts back then
+06:37 #4chan: < Naemuti> i'm just saying short format content now is huge for a reason
+06:37 #4chan: < slushybaka> That's my point entirely
+06:37 #4chan: < slushybaka> i literally said this
+06:37 #4chan: < slushybaka> remember when they sold you the internet as good
+06:37 #4chan: < slushybaka> and now it's bad
+06:38 #4chan: < slushybaka> you do not disagree
+06:38 #4chan: < slushybaka> why are you talking like you disagree
+06:38 #4chan:  * Naemuti shrugs
+06:38 #4chan: < mollypine> calm down
+06:38 #4chan: < Shad0wMan> was the internet ever good to begin with
+06:38 #4chan: < slushybaka> you would get a lot more pussy if you would just agree with people you agree with on the internet, Naemuti 
+06:38 #4chan: < Naemuti> before september it was Shad0wMan 
+06:38 #4chan: < mule42> because the sensation of disagreement releases a small amount of testosterone.
+06:38 #4chan: < slushybaka> in the balls, mule42
+06:38 #4chan: < Shad0wMan> it was originally just meant as a way for nerd scientists in the 80s to share information
+06:38 #4chan: < Naemuti> post september internet is cheeks
+06:38 #4chan: < slushybaka> it intermixes with the pissman's mayo in there
+06:39 #4chan: < slushybaka> you don't even get banned for spamming lines
+06:39 #4chan: < slushybaka> can we do full ascii and not get flood-kicked?
+06:39 #4chan: < slushybaka> or is that a rizon thing
+06:39 #4chan: < slushybaka> ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+06:39 #4chan: < slushybaka> ▒▒╔╧╦╧╗▒▒▒▒▒▒▒▒▒▒▒▒
+06:39 #4chan: < slushybaka> ▒▒╚╝║╚╝▒▒▒▒▒▒▒▒▒▒▒▒
+06:39 #4chan: < slushybaka> ▒▒▒▒║╗║╔╗╔╗╔╣╔╗╗║▒▒
+06:39 #4chan: < slushybaka> ▒▒▒▒║║║╠╝╚╗║║╔╣╚╣▒▒
+06:39 #4chan: < slushybaka> ▒▒▒▒╩╚╩╚╝╚╝╚╩╚╩╚╝▒▒
+06:39 #4chan: < slushybaka> ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+06:39 #4chan: < slushybaka> inb4 slowflood
+06:39 #4chan: < slushybaka> is my client ass
+06:40 #4chan: < fuckingfuck> its still monday though
+06:40 #4chan: < Snowshoe> tuesday
+06:40 #4chan: < Shad0wMan> I remember looking at usenet archives from like the 90s and seeing shitposts and arguments and thinking "wow nothing has changed"
+06:40 #4chan: < Shad0wMan> the internet was never good to begin with perhaps
+06:40 #4chan: < Naemuti> even in hieroglyph days people were just making dick jokes and shit
+06:41 #4chan: < Naemuti> what'd you expect
+06:41 #4chan: < mule42> i recall that hp lovecraft used to submit shitposts and arguments to one of the early canadian fanzines.
+06:41 #4chan: < mule42> which is about 100 years ago.
+06:41 #4chan: < Naemuti> to learn more about this, google "h.p. lovecraft's cat"
+06:41 #4chan: < newfriend> ​his name is mittens
+06:42 #4chan: < Shad0wMan> mittens, the destroyer of worlds
+06:42 #4chan: < fuckingfuck> chatgpt, summarize h.p. lovecraft's cat within 100 words
+06:42 #4chan: < mule42> there's an animated lovecraft movie where his pet cthulhu is named spot.
+06:43 #4chan: < Naemuti> H.P. Minecraf
+06:43 #4chan: < Shad0wMan> Apparently the hacker is in this chatroom btw
+06:43 #4chan: < Naemuti> t
+06:43 #4chan: < Shad0wMan> it's s0i1337 I think
+06:44 -!- fifel [~fifel@call.cats.cade] has quit [Ping timeout: 240 seconds]
+06:44 #4chan: < koolkid396> it's me, but don't tell anyone please
+06:44 #4chan: < fuckingfuck> calling the fbi right now
+06:44 #4chan: < mule42> we developed a type of soy bean containing human dna. it destroys any environment it's placed in by consuming all resources then itself.
+06:46 -!- Pharros [~Pharros@ARIA.AQUA] has joined #4chan
+06:46 #4chan: < mollypine> Shad0wMan: rumor has it they go by the handle "Anonymouse"
+06:47 -!- bancho [~bancho@5EC90A8B.BB08CFE2.19BFB60.IP] has joined #4chan
+06:47 #4chan: < slushybaka> Shad0wMan: selection bias. you literally cannot post a single opinion on 4chan without someone trying to shit on it
+06:47 #4chan: < slushybaka> conversely, people with very similar opinions converged prior
+06:48 #4chan: < slushybaka> the main problem with people who whine about "good" and "bad" is their incessant rejection of nuance
+06:48 -!- lapis [~lapis@F0AD6EF6.A10BD47A.78884063.IP] has joined #4chan
+06:48 #4chan: < mollypine> why are people acting like 4chan's source code wasn't public to begin with
+06:48 #4chan: < mollypine> wasn't that released years and years ago
+06:48 #4chan: < Naemuti> the wise man bowed his head solemnly and spoke: "theres actually zero difference between good & bad things. you imbecile. you fucking moron.
+06:48 #4chan: < fuckingfuck> was it? i dont know, and the soyjakkies dont seem to know that either 
+06:49 #4chan: < mollypine> know they don't know fucking anything lol
+06:49 #4chan: < mollypine> board software is like
+06:49 #4chan: < mollypine> free
+06:49 #4chan: < mollypine> lmao
+06:49 #4chan: < mollypine> OmGOSH I GOT 4CHAN'S SOURCE CODE GUYS
+06:49 #4chan: < mollypine> the software is the easiest part of running a chan
+06:50 #4chan: < anon1> coping commences kek
+06:51 #4chan: < Naemuti> going to start an image board now based on 4chan but with just one board for discussing the dave matthews band
+06:51 #4chan: < Palomino> based
+06:51 #4chan: < mollypine> you would
+06:51 -!- lapis [~lapis@F0AD6EF6.A10BD47A.78884063.IP] has quit []
+06:52 #4chan: < Steve2> fuck I needed to enchant
+06:52 #4chan: < Naemuti> okay look even i have limits mollypine 
+06:52 -!- asdf [~fdsa@7192950A:E7EEF5C9:EF3D5558:IP] has joined #4chan
+06:53 #4chan:  * Shad0wMan slaps s0i1337 around a bit with a large fishbot
+06:53 -!- oddwin [~qwebirc@Rizon-7AE8A0B1.nycmny.fios.verizon.net] has joined #4chan
+06:54 -!- dadfdf [~qwebirc@116CB40F.CA44A2CF.1A0CED67.IP] has joined #4chan
+06:55 -!- ethan8 [~kvirc@ethanarmy3948934.win] has joined #4chan
+06:55 #4chan: < ethan8> hi
+06:56 #4chan: < fuckingfuck> hi
+06:56 #4chan: < ethan8> have mods said anything since the site got hacked?
+06:56 #4chan: < Steve2> I love 4chan and the jews
+06:56 -!- thaigh [~root@F0A0F73C.7C083142.C892C62.IP] has joined #4chan
+06:56 #4chan: < ethan8> steve2, based nigga
+06:56 #4chan: < Steve2> no words from mods or admins
+06:57 #4chan: < Palomino> 3-6 hours of maintenance
+06:57 #4chan: < Palomino> it's ongoing
+06:57 -!- kadode [~kadode@Rizon-35E57779.sparkbb.co.nz] has joined #4chan
+06:58 -!- totalnaggerdeath1488 [~qwebirc@BF99F283.B49F51CC.512A39D8.IP] has joined #4chan
+06:58 #4chan: < totalnaggerdeath1488> what's up chuds?
+06:58 #4chan: < anon1> full source code just got leaked
+06:58 #4chan: < ethan8> ummm
+06:58 #4chan: < totalnaggerdeath1488> epic
+06:58 #4chan: < ethan8> the soycacas are here....
+06:58 #4chan: < totalnaggerdeath1488> hahaha
+06:58 #4chan: < anon1> qa won btw
+06:59 #4chan: < fuckingfuck> oh no, the source code
+06:59 #4chan: < totalnaggerdeath1488> GEEEEEEG nusoipoopas don't even goon to 'p o algo
+06:59 #4chan: < ethan8> ban these people ban them now
+06:59 #4chan: < totalnaggerdeath1488> do 4cucks really?
+06:59 #4chan: < anon1> 4cucks lost
+06:59 #4chan: < ethan8> these are the hackers who hacked the hacker known as 4chan
+06:59 #4chan: < totalnaggerdeath1488> qa WON
+06:59 #4chan: < anon1> snarky snappy won
+06:59 #4chan:  * Shad0wMan slaps s0i1337 around a bit with a large fishbot
+06:59 #4chan: < ethan8> an they have the balls to join our irc
+06:59 #4chan: < totalnaggerdeath1488> r/markiplier won
+07:00 #4chan: < anon1> TSMS
+07:00 #4chan: < oddwin> oddwin
+07:00 #4chan: < totalnaggerdeath1488> it's ttd
+07:00 #4chan: < anon1> tnd too
+07:00 #4chan: < totalnaggerdeath1488> TRVE
+07:00 #4chan: < smuck_> soycacas
+07:00 #4chan: < mollypine> what doom1 episode should i play
+07:01 #4chan: < anon1> its over nusoi won
+07:01 #4chan: < mollypine> won what
+07:01 #4chan: < Shad0wMan> I'm serious, I think s0i1337 is the hacker
+07:01 #4chan: < totalnaggerdeath1488> play bing bing wahoo doebeit
+07:01 #4chan: < kadode> Shad0wMan it wouldn't be that obvious would it
+07:01 #4chan: < Shad0wMan> the hacker in sharty said his email address is s0i1337@cock.li
+07:01 #4chan: < Shad0wMan> and guess what 
+07:01 #4chan: < Shad0wMan> s0i1337 is in this room
+07:01 #4chan: < Shad0wMan> lol
+07:01 #4chan: < totalnaggerdeath1488> king
+07:02 #4chan: < totalnaggerdeath1488> thank you hackerGOD
+07:02 -!- testo [~qwebirc@F772B968.9CB9828B.A5DBBF3F.IP] has joined #4chan
+07:02 #4chan: < mollypine> i'm crying
+07:02 #4chan: < totalnaggerdeath1488> I kneel
+07:02 #4chan: < Shad0wMan> would be funny if he got himself doxxed
+07:02 #4chan: < Shad0wMan> karma
+07:02 #4chan: < ethan8> s0i1337 say something
+07:02 #4chan: < totalnaggerdeath1488> Like what's happening to the army of troon furfag jannies?
+07:02 #4chan: < mollypine> it's probably not going to be hard to track down whoever did it anyway
+07:02 #4chan: < mule42> i suppose hiro might sue him.
+07:02 #4chan: < s0i1337> I did it for the lulz
+07:02 #4chan: < totalnaggerdeath1488> GEEEEEEEEEEEEEG
+07:02 #4chan: < kadode> This shit is boring because he won't leak the source code
+07:02 -!- sldkfjslkdfsf [~qwebirc@84DC9D28.F3F7929E.B249F936.IP] has joined #4chan
+07:02 #4chan: < smuck_> very comedic Shad0wMan, now did you exfiltrate any pass data
+07:02 #4chan: < mollypine> do you really think someone dumb enough to hack a site was relatively worthless as 4chan did a clean job
+07:03 #4chan: < ethan8> absolutely keyed
+07:03 #4chan: < sldkfjslkdfsf> hello reddit
+07:03 #4chan: < smuck_> I have 20 years left on my pass. I don't know what to do. I'm freaking out. Calling my bank.
+07:03 -!- yunku_ [~yunkyoung@Rizon-187AE03B.public.telering.at] has joined #4chan
+07:03 #4chan: < mollypine> smuck_: praying for you
+07:03 #4chan: < yunku_> bros
+07:03 #4chan: < kadode> Mate I don't think he'll leak payments
+07:03 #4chan: < kadode> I hope
+07:03 #4chan: < totalnaggerdeath1488> erm, my xisters will find you for this soyim
+07:03 #4chan: < anon1> lmao hes here
+07:03 #4chan: < kadode> He seems ethical at least
+07:03 #4chan: < anonemoose> I do have to wonder how people are going to react to the /j/ leaks once the site's up
+07:03 #4chan: < s0i1337> kadode: not happening
+07:03 #4chan: < anonemoose> There's some shit in there that's going to piss a lot of people off
+07:04 #4chan: < mollypine> go on
+07:04 #4chan: < mule42> there are constant fake leaks anyway.
+07:04 #4chan: < anon1> theres proof of them posting female versions of the janny jak larping as them LMAO
+07:04 #4chan: < fuckingfuck> jannies are a bunch of circlejerking cucks, what else is new
+07:04 #4chan: < kadode> s0i1337 Wdym not happening, not happening as in payments won't get leaked? or not happening as in no they will get leaked
+07:04 #4chan: < totalnaggerdeath1488> Jannies are troons? Aw geez, who knew?
+07:04 #4chan: < s0i1337> they will not be leaked
+07:04 #4chan: < kadode> That's good
+07:04 #4chan: < Shad0wMan> bring the site back up already you dumbass
+07:04 #4chan: < mule42> i expect a female version of me to kill me since she knows what i'll do to her. i gotta be ready.
+07:04 #4chan: < totalnaggerdeath1488> The shit where they were talking about wordfiltering chud to senpai and troon to people was so fucking geg
+07:05 #4chan: < anonemoose> mollypine: some /vt/ stuff that sort of confirms what people have been angry about in regards to moderation bias/lack of moderation
+07:05 #4chan: < anonemoose> Think that board is going to go into a full on riot when it's up 
+07:05 #4chan: < smuck_> should've sent the exfiltrated data to leto instead of releasing it inconsistently on the sharty on pomf instances
+07:05 #4chan: < kadode> Shad0wMan I believe 4chan mods pulled the plug it's out of his control anyway
+07:05 #4chan: < DarkDramatication> totalnaggerdeath1488 maybe if you had different hobbies, the janitor wouldn't be living rent free in your head! 
+07:05 #4chan: < mollypine> yes we know about the hololive bias
+07:05 #4chan: < anon1> geg
+07:05 #4chan: < totalnaggerdeath1488> What do you mean? There's an entire board dedicated to janny seething nigga
+07:06 #4chan: < anonemoose> Sort of the opposite point, I mean, in that there's clearly no consistent moderation baseline and just up to whoever's feelings and if they like/dislike something
+07:06 -!- Nanne [~nnn@8E8A4FA:20919B7B:946557EE:IP] has joined #4chan
+07:06 #4chan: < mollypine> is that a surprise to you?
+07:06 #4chan: < anonemoose> Which with the recent incidents of people being banned for reporting obvious trollposts, makes a lot more sense with the evidence
+07:06 #4chan: < Shad0wMan> A week ago iirc I got banned from /v/ for posting about the Switch 2 pricing thing, they said it was "off topic"
+07:06 #4chan: < anonemoose> Nah not surprising, more just disappointing
+07:06 #4chan: < anonemoose> I'd prefer if it was lazy moderation rather than malicious 
+07:06 -!- Shampooh [~shampo@8C09AD51:E3F26403:377A4086:IP] has joined #4chan
+07:06 #4chan: < Shad0wMan> Maybe it was because I was specifically posting about the former PR managers' take on the situation?
+07:07 #4chan: < mule42> lazy moderation allows us the divine presence of slack.
+07:07 -!- Steve2 [~Jim@Rizon-78BC6944.res.spectrum.com] has quit [Quit: Leaving]
+07:07 #4chan: < anon1> yeah the jannies are very active on /vt/ kek
+07:07 #4chan: < Shad0wMan> Like, I posted "Switch 2 - Kit & Krysta (former NoA PR managers) talk about the Switch 2 pricing situation" and got banned from the videogames board for being "off-topic"
+07:08 #4chan: < kadode> Lol the source code got leaked
+07:08 #4chan: < kadode> Check the sharty thread
+07:08 -!- s0i1337 [~qwebirc@Rizon-67310504.range86-130.btcentralplus.com] has quit [Quit: Page closed]
+07:08 #4chan: < anon1> yeah its all out
+07:08 #4chan: < anon1> 4cuck LOST
+07:08 #4chan: < totalnaggerdeath1488> dox of jannies: https://files.catbox.moe/42w6h3.zip
+07:08 #4chan: < koolkid396> kino alert
+07:08 #4chan: < fuckingfuck> shit now theres going to be other imageboards 
+07:08 #4chan: < fuckingfuck> for the first time ever
+07:08 #4chan: <@Faust`> .kb totalnaggerdeath1488 
+07:08 -!- mode/#4chan [+b *!*@BF99F283.B49F51CC.512A39D8.IP] by Yotsubot
+07:08 -!- totalnaggerdeath1488 was kicked from #4chan by Yotsubot [Requested]
+07:08 #4chan: < mollypine> fuckingfuck: lol
+07:08 #4chan: < smuck_> totalnaggerdeath1488, is that the lame kf autodox
+07:08 #4chan: < anonemoose> This has never happened before, it's unprecedented 
+07:08 #4chan: < anon1> kek there he goes
+07:08 #4chan: < kadode> Kek
+07:08 #4chan: < kadode> that guy was autistic
+07:09 #4chan: < Palomino> it's over...
+07:09 #4chan: < anonemoose> I really don't get the dancing over source code though, there's like a hundred image boards using a similar base
+07:09 #4chan: < anon1> cope
+07:09 #4chan: < mollypine> any serious imageboard has to adapt its codebase to meets its needs anyway
+07:10 #4chan: < mollypine> the software part of it is the least interesting part
+07:10 #4chan: < koolkid396> are you retarded? the code tells you exactly how to evade the bot/spam detection
+07:10 #4chan: < sldkfjslkdfsf> this would never have happened if you guys just used mongodb/reactjs
+07:10 #4chan: < kadode> anonemoose me neither, it's whatever though i'm all for more altchans albeit most will be filled to the bring with pizza or be dead
+07:10 #4chan: < kadode> brink*
+07:10 #4chan: < Shad0wMan> I imagine anonymous imageboards in general are a nightmare to moderate
+07:10 #4chan: < kadode> Wait no I meant brim why do i have brain AIDS today
+07:10 #4chan: < fuckingfuck> bot and spam detection is just an endless circle, its never solved either way
+07:10 #4chan: < mollypine> they'll just change it lol
+07:11 #4chan: < Shad0wMan> just to ensure people don't post illegal shit
+07:11 #4chan: < smuck_> koolkid396, that's not that appealing since you'll still need to use real browser instances due to cloudflare's cuckery
+07:11 #4chan: < anonemoose> We're just going to get the weird AI cat captchas instead of words
+07:11 #4chan: < anonemoose> Finally back to clicking pictures like God intended
+07:12 #4chan: < fuckingfuck> i like the captchas where you have to rotate the images to be rightside up, except its a zoomed in blurry mess of pixels 
+07:12 #4chan: < koolkid396> smuck_ that is the least of their concerns if you didn't notice the 24/7 automated spam
+07:12 #4chan: < sldkfjslkdfsf> i swear google's captcha was a new method invented for glowies to torture people 
+07:12 #4chan: < Naemuti> captchas are getting too complex
+07:13 #4chan: < Shad0wMan> captchas are already solved by bots
+07:13 #4chan: < mollypine> it's ai training
+07:13 #4chan: < Shad0wMan> it's pointless
+07:13 #4chan: < smuck_> koolkid396, the *automated* spam died off as soon as they implemented cloudflare's turnstile captcha.
+07:13 #4chan: < Naemuti> i do not need to pass an IQ test to post on 4chan, i am literally posting here because i am low IQ
+07:13 #4chan: < anonemoose> My damn zhang games have been making me slot puzzle pieces
+07:13 #4chan: < sldkfjslkdfsf> PoW captchas are the hot new thing
+07:13 #4chan: < Naemuti> prisoner of war captchas
+07:13 -!- cygnus [~sid70047@laputan.machine] has joined #4chan
+07:13 -!- mode/#4chan [+o cygnus] by Yotsubot
+07:13 #4chan: < koolkid396> smuck_ maybe if the spammer was sending direct requests, but they're running headless browsers as a lazy solution now
+07:14 #4chan: < smuck_> koolkid396, that's not what I would consider *automated* because the posters who are using those ecker instances are still real people with real post contents
+07:15 -!- testo [~qwebirc@F772B968.9CB9828B.A5DBBF3F.IP] has quit [Quit: Page closed]
+07:15 #4chan: < Shad0wMan> anyone else been a neet trying to become at least a wagie recently btw?
+07:15 #4chan: < Shad0wMan> or is it just me
+07:15 #4chan: < Shad0wMan> because I'm finally gonna get a job soon
+07:15 #4chan: < Shad0wMan> if I nail the interview
+07:15 #4chan: < Shad0wMan> but it's at a burger flipping place
+07:15 #4chan: < fuckingfuck> id been a career man for 11 years until recently 
+07:15 #4chan: < Shad0wMan> but it's like, $5 above min wage
+07:15 #4chan: < mollypine> making money feels good
+07:15 #4chan: < Shad0wMan> and minwage where I live is pretty high
+07:15 #4chan: < mollypine> you should give it a shot
+07:16 #4chan: < koolkid396> smuck_ it can be automated, ecker just lets people make their own posts. he himself could submit posts automatically if he wanted
+07:16 #4chan: < kadode> Ditto what mollypine said
+07:16 #4chan: < Shad0wMan> haven't had a job since I wageslaved for an amazon warehouse and it was hell
+07:16 -!- Nanne [~nnn@8E8A4FA:20919B7B:946557EE:IP] has quit [Read error: Connection reset by peer]
+07:16 #4chan: < Naemuti> being a sugar baby feels good
+07:16 -!- touchme [~uid665411@lovemelike.you.do] has quit [Quit: Connection closed for inactivity]
+07:16 #4chan: < mollypine> yeah i've never heard anything good about amazon
+07:16 #4chan: < Shad0wMan> mainly was just boring and tedious
+07:16 #4chan: < mollypine> you can do a lot better
+07:16 -!- dadfdf [~qwebirc@116CB40F.CA44A2CF.1A0CED67.IP] has quit [Quit: Page closed]
+07:16 -!- Nanne [~nnn@Rizon-FA702CC7.rev.dnainternet.fi] has joined #4chan
+07:16 #4chan: < Shad0wMan> you literally just scan this, pick up that
+07:16 #4chan: < Shad0wMan> enough to drive one insane
+07:17 #4chan: < Naemuti> amazon is where you go to drop dead and have them stack boxes around your corpse so no one can see it
+07:17 #4chan: < mollypine> all you had to do was pick? fuck that sounds kind of cool ngl
+07:17 #4chan: < Shad0wMan> lol
+07:17 #4chan: < mollypine> unless they were nazis about airpods
+07:17 #4chan: < fuckingfuck> warehouse workers are on the cusp of being replaced by robots
+07:17 #4chan: < mollypine> then that would suck
+07:18 #4chan: < smuck_> koolkid396, there's no point in doing such other than to bring down board quality or to bypass the initial 15 minute timer with a non-spammy ai-generated post.
+07:18 #4chan: < Shad0wMan> main reason I want to get a job asap is so I can afford a switch 2
+07:18 #4chan: < smuck_> Regardless if they're using headless browsers and residential proxies, there really isn't anything you can do about it
+07:18 #4chan: < yunku_> its joever
+07:18 #4chan: < Shad0wMan> I live with my parents so I don't have to worry about the cost of living yet
+07:18 -!- suplui [~qwebirc@B32DD35.5A64BB7E.AF308921.IP] has joined #4chan
+07:18 #4chan: < mollypine> it makes sense to post only the most artisanal hand-crafted shitposts
+07:18 #4chan: < koolkid396> smuck_ the vidyabutts spammer would be multiplied by 100 if people read through the code and saw how to get around the automated checks
+07:18 #4chan: < Shad0wMan> but personal funds? gotta get them if I want some personal shit
+07:19 #4chan: < mollypine> Shad0wMan: that's the way to do it. fuck rent
+07:19 #4chan: < mollypine> save up some money while you can
+07:19 #4chan: < smuck_> koolkid396, issue is the main automated checks are done by cloudflare. If you're referring to the basic post anti-spam filters then that's already easily avoidable
+07:19 #4chan: < yunku_> Why is 4chan laggy? I don't care much if it got hacked, the hacker won't be any less trustworthy than the glowies who run it otherwise... but he at least could make sure that it doesn't lag
+07:19 #4chan: < mollypine> you're an idiot if you're using a hacked website
+07:20 #4chan: < koolkid396> smuck_ yes the cloudflare thing is separate, but the code confirming the AI image scanner is an example of useful information to them
+07:20 #4chan: < mollypine> sorry let me put that less toxicly: stop using websites when they're hacked
+07:21 #4chan: < Shad0wMan> Also another reason I'd like to get funds is to fund personal projects
+07:21 #4chan: < Shad0wMan> like gamedev projects or w/e
+07:21 #4chan: < mule42> i hope the scanner cuts down on frogs.
+07:21 #4chan: < anon1> the database has been disconnected so the boards dont work
+07:21 #4chan: < anonemoose> Train the scanner better, total jakdeath
+07:21 #4chan: < yunku_> bro, this website literally has a "military enlistment general" for the US army in a board about weapons, its as hostile as it can get
+07:22 #4chan: < yunku_> if anything, a hacker in charge is an improvement
+07:22 #4chan: < yunku_> just resolve the lag
+07:22 #4chan: < mollypine> interesting take
+07:22 #4chan: < smuck_> koolkid396, there's already millions of ways to get around most image scanning tools. (ex: add lots of noise & shift colors slightly along w/ re-encoding will get around every single one)
+07:22 #4chan: < mule42> did hiro not go to MIT?
+07:22 #4chan: < Shad0wMan> hiro's from japan
+07:22 #4chan: < Shad0wMan> he made 2chan
+07:22 #4chan: < Shad0wMan> which inspired futubachan which inspired 4chan
+07:22 #4chan: < Shad0wMan> then he bought 4chan from moot
+07:23 -!- Palomino [~palomino3@5952C739.5074B446.36B41168.IP] has quit [Ping timeout: 240 seconds]
+07:23 #4chan: < Shad0wMan> and hiro ran into trouble with the japanese feds iirc and moved to france
+07:23 #4chan: < Shad0wMan> from sushi to baguettes /s
+07:23 #4chan: < Shad0wMan> sorry, bad joke
+07:23 #4chan: < mule42> he and robert crumb plotting something.
+07:23 #4chan: < anonemoose> Wasn't it tax evasion or some shit? And also people hating him for ruining 2chan and selling data or something
+07:23 #4chan: < koolkid396> smuck_ i know. i saw some snippets of code that showed certain thread topics had dedicated anti-spam code to them. a malicious poster would be glad to know about it so they don't waste time going through multiple cookies
+07:24 #4chan: < Shad0wMan> tax evasion sounds kinda based at least tbh
+07:24 #4chan: < Shad0wMan> no taxation without representation
+07:25 #4chan: < smuck_> koolkid396, ah in-case of those filters it's really just trial and error. can't do anything other than try to re-word your post several times, it also affects real posters too which sucks.
+07:25 #4chan: < mule42> any browser or tcp header fingerprinting? there really should be by now.
+07:25 #4chan: < koolkid396> smuck_ real posters get tortured by shadow bans while the bad actors keep on raping the website
+07:26 #4chan: < Shad0wMan> surprised hiro hasn't sold out 4chan to some random scam company in india tbh if the rumors about him being a bit of a sellout are to be true
+07:26 #4chan: < koolkid396> bro doesn't know :skull: :skull:
+07:27 #4chan: < mule42> iirc, he sold out days before an amended law made the data free anyway. to some suckers.
+07:27 #4chan: < Shad0wMan> oh lol mule42
+07:27 #4chan: < McBoots> so whats the status
+07:27 #4chan: < mule42> no erection yet.
+07:28 #4chan: < Shad0wMan> wonder how hiro is reacting to this whole shitshow. considering he hasn't posted actively in ages he probably doesn't really give a shit
+07:28 -!- thaigh [~root@F0A0F73C.7C083142.C892C62.IP] has quit [Ping timeout: 240 seconds]
+07:28 #4chan: < anonemoose>  I don't think he even remembers he owns it
+07:28 #4chan: < Shad0wMan> I wouldn't be surprised if that were the case
+07:29 #4chan: < anonemoose> Pretty sure it's been entirely mod run for years now
+07:29 #4chan: < Shad0wMan> also wonder how some users around the world are reacting to this, i.e in japan or whatnot
+07:29 #4chan: < anonemoose> I miss moot
+07:29 #4chan: < Veinfag> Last time i saw hiro he was streaming random stuff
+07:29 #4chan: < Shad0wMan> in /int/ there are some active japanese users and whatnot
+07:29 #4chan: < koolkid396> aka english teachers
+07:29 #4chan: < Shad0wMan> there are some native speakers there iirc
+07:30 #4chan: < Shad0wMan> not just english teachers
+07:30 #4chan: < Shad0wMan> and you can tell when one is ESL
+07:30 #4chan: < anonemoose> I wonder if these leaks will lead to more staff transparency since the dirty laundry was aired
+07:30 #4chan: < smuck_> the main takeaway i got from this breach is that kiwitroons are retarded, especially joshua
+07:30 #4chan: < koolkid396> wdym? anonemoose
+07:30 #4chan: < Shad0wMan> there's this one guy that's been shitposting and making threads like "why is gaijin x" ranting about how every country but japan is "bad" and "shameful"
+07:31 -!- eise [~eise8@52E66DBA:14AD3E87:A26E2254:IP] has quit [Quit: Leaving]
+07:31 #4chan: < Shad0wMan> like every so often he goes full nationalist lol
+07:31 -!- Shampooh [~shampo@8C09AD51:E3F26403:377A4086:IP] has quit [Quit: Leaving]
+07:32 #4chan: < Shad0wMan> there are some pretty cool native speakers in /int/ ofc
+07:32 #4chan: < Shad0wMan> i.e in /djt/
+07:32 #4chan: < Shad0wMan> wish I had the motiviation still to actually learn japanese
+07:32 #4chan: < Naemuti> i'm trying to learn a language right now
+07:32 #4chan: < Naemuti> it's hard
+07:33 #4chan: < Shad0wMan> yeah I tried learning japanese
+07:33 #4chan: < Shad0wMan> I was sorta getting close to N5 but I lost motivation and was distracted by current events and the switch 2 reveal
+07:33 #4chan: < Shad0wMan> my anki deck is probably filled with due reviews right now
+07:34 #4chan: < mule42> current events farther than gunfire without nipples can be safely ignored.
+07:34 #4chan: < Shad0wMan> true
+07:34 #4chan: < Shad0wMan> the tariffs thing annoyed me
+07:34 #4chan: < suplui> Well, shit. This sucks.
+07:34 #4chan: < Shad0wMan> I'm not really into politics and don't hate or love the current president, but his retardation with tariffs really PO'd me
+07:35 #4chan: < Shad0wMan> and then he walked back and was like "nvm lol you're all good but fuck china tho"
+07:35 #4chan: < Shad0wMan> like, what was his endgame
+07:35 #4chan: < mule42> stop feeding them.m download some rice.
+07:36 #4chan: < Shad0wMan> I'm just glad the Switch 2 won't cost $900 at least if tariffs on Vietnam were lowered to 10% and are paused for 90 days
+07:36 #4chan: < Shad0wMan> it'll just cost like $500
+07:36 #4chan: < Naemuti> market manipulation
+07:37 #4chan: < Naemuti> we all owe martha stewart an apology
+07:37 #4chan: < Shad0wMan> Yeah
+07:37 #4chan: < Shad0wMan> the current POTUS is one of the most mercurial and deranged people ever
+07:37 #4chan: < Shad0wMan> you never know what BS he's going to pull out of his ass next
+07:37 #4chan: < Naemuti> anyone who looks at trump and sees his behavior as anything other than completely self-aggrandizing is at best an idiot
+07:37 #4chan: < Shad0wMan> and never know if it'll be a nothingburger or will fuck shit up
+07:37 #4chan: < mule42> if you haven't seen his nipples then he's not real.
+07:38 #4chan: < Shad0wMan> yeah he's absolutely a narcissist
+07:38 #4chan: < Naemuti> or as sean penn said
+07:38 #4chan: < Shad0wMan> as celebs and rich businessmen tend to be
+07:38 #4chan: < Naemuti> IT'S ABOUT MONEY DICK
+07:38 #4chan: < Shad0wMan> he's as narcissistic and amoral as the celebs who claim to be against him imo
+07:38 #4chan: < Shad0wMan> which is to say, a lot
+07:39 #4chan: < asdf> s01
+07:39 #4chan: < Shad0wMan> he's just an exhausting person to deal with too
+07:39 #4chan: < Veinfag> i can understand why they would try to price the switch at $350+ since its a modern Nvidia chip and there is no waffer space to waste, but still nintendo is being greedy as fuck
+07:39 #4chan: < asdf> oops was trying to ctrl f
+07:39 #4chan: < mule42> and you pay attention to them despite their nipples being covered.
+07:39 #4chan: < Veinfag> Fucking joycons still dont use hall sensor sticks and they are $90
+07:39 #4chan: < Shad0wMan> I wasn't a fan of his opponent either but I am never going to vote for that psycho
+07:39 #4chan: < Shad0wMan> yeah I agree Veinfag
+07:40 #4chan: < Shad0wMan> MKW being $80 is the more egregious thing
+07:40 #4chan: < Shad0wMan> that and welcome tour not being a pack-in title such as face raiders
+07:40 #4chan: < Shad0wMan> and the whole switch 2 edition upgrade packs
+07:40 -!- Blaine [~WinNT@I.Like.Carrots] has joined #4chan
+07:40 #4chan: < Veinfag> upgrade packs WITHOUT DLC
+07:41 #4chan: < Shad0wMan> funnily enough, I lost my copies of BOTW, SMM2, and smash ultimate so I guess I'm going to buy them again when I get a switch 2
+07:41 #4chan: < Shad0wMan> and I guess BOTW with the upgrade just to see how it's like
+07:41 #4chan: < Shad0wMan> and if it's any better than just running it in an emu
+07:41 -!- oddwin [~qwebirc@Rizon-7AE8A0B1.nycmny.fios.verizon.net] has quit [Ping timeout: 240 seconds]
+07:41 -!- Master_Alucard [~Master_Al@9B27E821.8FCD5062.7C4E5281.IP] has joined #4chan
+07:41 #4chan: < Shad0wMan> 1080p60 and all that jazz
+07:41 #4chan: < Shad0wMan> sorry, 4K60
+07:41 #4chan: < Shad0wMan> but I have no 4K monitor/tv
+07:42 #4chan: < Shad0wMan> just a 720p tv and a 1080p computer monitor
+07:42 #4chan: < Shad0wMan> in my room at least
+07:42 #4chan: < mule42> the new technology just makes nipples in old media blurrier. not worth the investment.
+07:42 #4chan: < Veinfag> We are 2-3 GPU gens away till 4K becomes worthy
+07:43 #4chan: < Veinfag> 3-5 if nvidia keeps pushing upscaling and fake frames
+07:43 #4chan: < Shad0wMan> something I realized
+07:43 #4chan: < Shad0wMan> if I get a job I can finally afford and used switch online again
+07:43 #4chan: < Shad0wMan> and play splatoon 2 for the first time in 
+07:43 #4chan: < Shad0wMan> like 7 years
+07:44 #4chan: < Shad0wMan> haven't tried S3 yet though
+07:44 #4chan: < Veinfag> Isnt splatoon 2 over?
+07:44 #4chan: < Veinfag> the point was the multiplayer
+07:44 #4chan: < Shad0wMan> heard it's basically just S2
+07:44 #4chan: < Shad0wMan> afaik S2's servers are still active
+07:44 #4chan: < Shad0wMan> but I guess people just play S3
+07:45 #4chan: < mule42> i assume there are fan servers to support the nude mods.
+07:45 #4chan: < Shad0wMan> aren't inklings underage? sounds kinda sus
+07:46 #4chan: < mule42> there's no age of consent for non humans.
+07:46 #4chan: < Veinfag> Maybe in Squid years?
+07:46 #4chan: < Shad0wMan> reminds me though, the plot of every game is basically adult/elder inklings basically enlisting kid inklings in military/espionage ops
+07:46 #4chan: < Shad0wMan> squid child soliders
+07:47 #4chan: < Shad0wMan> plot of the singleplayer campaigns I should say
+07:47 #4chan: < Veinfag> Shad0wMan, dont forget the vietnam children kidnapping black company job
+07:47 -!- vm [~vm@no.body] has quit [Ping timeout: 240 seconds]
+07:47 #4chan: < Shad0wMan> are the squid sisters war criminals or is Octavius from S1 a terrorist? discuss
+07:48 #4chan: < mollypine> the what mods
+07:48 -!- thaigh [~root@F0A0F73C.7C083142.C892C62.IP] has joined #4chan
+07:48 #4chan: < mollypine> do people really
+07:48 #4chan: < Shad0wMan> mollypine, every game if moddable can and will have some nsfw mod
+07:48 #4chan: < mule42> what a question.
+07:48 #4chan: < Shad0wMan> it's like rule 34 but for games
+07:48 #4chan: < Shad0wMan> gooners will goon
+07:48 -!- bluh [~qwebirc@Rizon-F52F9A21.ph.ph.cox.net] has joined #4chan
+07:49 #4chan: < Shad0wMan> back in the early days of pokemon gen 6, when 3DSes became moddable, someone made a mod for XY and ORAS that gave the female playable characters big tits
+07:50 #4chan: < mule42> they're working on client side realtime ai declothing mods that work on the gpu driver level, even. so just any game you play, x-ray vision button.
+07:50 -!- Veinfag [~Veinfag@F5691ED7:FE6EABF2:4293572A:IP] has quit [Quit: Leaving]
+07:50 #4chan: < Shad0wMan> funny thing is that mod did what no other mod did and gave ORAS May her old RSE outfits
+07:50 #4chan: < mollypine> they need jesus
+07:50 #4chan: < Shad0wMan> but with big tits lol
+07:51 #4chan: < Shad0wMan> mollypine, I think they're too far gone imo
+07:51 #4chan: < mule42> jesus was a nudist anyway.
+07:51 #4chan: < mollypine> don't play dumb now
+07:52 -!- Enoki [~Enoki@fungi.to.be.with] has joined #4chan
+07:52 #4chan: < Shad0wMan> I wonder when the Switch 2 will be hacked, if ever
+07:52 #4chan: < Shad0wMan> apparently some chinese people already have models of the console before anyone else
+07:52 #4chan: < Shad0wMan> from smuggling them from factories
+07:52 #4chan: <@chinese> excuse me
+07:53 #4chan: < mule42> nintendo still negotiating w/ contractors to 'hack' it.
+07:53 #4chan: < Shad0wMan> if the switch 2 will ever be hacked, it'll be like the PS4 and PS5 and Xbox One where it's only old firmware versions
+07:54 #4chan: < Shad0wMan> the RCM hardware exploit on the switch 1 was a lightning in a bottle moment
+07:54 -!- Guyver2 [~Guyver@Rizon-28C0D9.fixed.kpn.net] has joined #4chan
+07:54 -!- Veinfag [~Veinfag@1D91B7F:1EC8447B:4293572A:IP] has joined #4chan
+07:55 #4chan: < Shad0wMan> And yet, despite that, the Switch 1 was a huge success even though that hardware exploit, while opening the door to cool homebrew, also opened the door to piracy
+07:55 #4chan: < Shad0wMan> and yet Nintendo still decided to go after pirates and claim they were hurting sales
+07:55 #4chan: < yunku_> someone needs to fix the lag, bros
+07:55 #4chan: < Shad0wMan> meanwhile the dreamcast's security was busted open with custom CDRs and that basically killed the platform and sega just did nothing
+07:56 #4chan: < Shad0wMan> then sega went "fuck it" and became a third party publisher like namco and capcom
+07:56 -!- blep [~user@what.did.she.mean.by.this] has joined #4chan
+07:57 #4chan: < kadode> I verified my email once cause of the 15 minute wait thing, would it get leaked from the hack?
+07:57 #4chan: < Shad0wMan> that's a good question
+07:57 #4chan: < Shad0wMan> I verified mine too
+07:57 #4chan: < Enoki> Uhm well akshually they are on their right to hunt pirates because it's they copyrighted prod- SHUT UP
+07:57 -!- project_thorne [~qwebirc@Rizon-87F1998F.zoominternet.net] has joined #4chan
+07:57 #4chan: < Enoki> They know piracy doesn't really hurt sales
+07:57 #4chan: < Enoki> They just wanna show who's in charge
+07:57 #4chan: < newfriend> i believe the leaker is a moralfag only seeking total janny death 
+07:58 #4chan: < Shad0wMan> I can understand ninty's hatred for pirates, but the fact that they also stamp down on emulators and console homebrew irks me
+07:59 #4chan: < Shad0wMan> meanwhile microsoft has devmode which keeps homebrew devs happy and prevents them from having the motivation to hack stuff
+07:59 #4chan: < Shad0wMan> and yet the xbox one got hacked and emulated anyway lol
+07:59 -!- namefag2 [~qwebirc@6C993382.3514B179.19BFB60.IP] has joined #4chan
+07:59 #4chan: < project_thorne> there's diaspora on some site called "downdetector," and one of them is saying that sharty got framed and the leaker has nothing to do with them. nothing ever happens though so it's ok
+07:59 #4chan: < mule42> they hire their own pirates in case there are none to prosecute. and to do community promotional work.
+08:00 #4chan: < Shad0wMan> game consoles should at least allow users/consumers to make homebrew and use linux
+08:00 #4chan: < Shad0wMan> stuff like net yaroze or ps2 linux
+08:00 #4chan: < mule42> i thought ps2 was already linux.
+08:00 #4chan: < Shad0wMan> basically homebrew dev and linux support in an official and safe capacity
+08:01 #4chan: < Shad0wMan> ps2 is its own kernel/bios, there's just a port of linux to ps2 that was sold by sony
+08:01 #4chan: < Shad0wMan> they did something similar for ps3 but pussied out because "muh security" and that just motivated people to hack the ps3 and still run linux
+08:01 #4chan: < Shad0wMan> because the ps3 as a linux device was a godsend for cluster computing iirc
+08:02 #4chan: < Shad0wMan> as its cpu was made by IBM and Sony engineers who were high on cocaine
+08:02 #4chan: < Shad0wMan> look up the Cell processor, it's a fucking wild beast
+08:02 -!- Jalexster [~qwebirc@58F441.826CE094.5286F6C9.IP] has joined #4chan
+08:05 #4chan: < Shad0wMan> if Nintendo made something like Family BASIC but for the Switch 2, that'd be epic
+08:06 #4chan: < Shad0wMan> But I guess a SmileBASIC game would probably fill that niche
+08:06 #4chan: < Jalexster> There was a Switch game written in Ruby that included an accessible Ruby console in the final game
+08:06 #4chan: < project_thorne> is the switch 2 still going to cost an absurd amount of money or did they reverse course?
+08:06 #4chan: < Jalexster> Pretty sure it got pulled from the eShop
+08:07 #4chan: < slushybaka> JESUS CHRIST THE BOARD IS GONE.
+08:07 #4chan: < Shad0wMan> project_thorne, the price was about to go up because of tariffs, but because tariffs were softened a bit the price is probably going to be the same; $450 for the console
+08:07 #4chan: < kadode> slushybaka Which? /qa/?
+08:07 #4chan: < slushybaka> Please do not make this yet another place where I have to hear the exact same shit about trump with no one wanting to do anything about it
+08:07 #4chan: < mule42> had to scrap them because they lack a now mandatory network hardware backdoor.
+08:07 #4chan: < slushybaka> kadode: IT'S ALL GONE.
+08:08 #4chan: < Shad0wMan> sorry slushybaka
+08:08 #4chan: < letov2> i got insider info, 4chan is coming back up in 3 hours
+08:08 #4chan: < kadode> I can't tell because this shit is so slow
+08:08 #4chan: < Jalexster> Oh, it was "A Dark Room" and apparently they patched it out. But originally you could plug a USB keyboard in and hit a key and just start typing Ruby code in.
+08:08 #4chan: < McBoots> kadode: welcome to IRC lol
+08:08 #4chan: < kadode> McBoots I mean 4chan the site
+08:08 #4chan: < Shad0wMan> Oh, I see, going to any board on 4chan now gives "connection timed out"
+08:08 #4chan: < kadode> not the irc
+08:09 #4chan: < kadode> Connection timed out....
+08:09 #4chan: < Shad0wMan> instead of just being in a state of limbo where you can view shit but can't post
+08:09 #4chan: < McBoots> kadode: servers prob being raped by the skids
+08:09 #4chan: < suplui> Hoping it isn't dead for too, too long. I spend a good chunk of my time hanging out on the site.
+08:09 #4chan: < kadode> Was bound to happen eventually
+08:09 #4chan: < Shad0wMan> maybe this is the universe's way of telling us all to get a life /s
+08:09 #4chan: < project_thorne> timed out when i tried to go to /pol/
+08:10 #4chan: < mule42> meetup at the local mcdonalds. suck your thumb so we know it's you.
+08:10 #4chan: < yunku_> they should have kept it up
+08:10 #4chan: < Jalexster> The CDN was still up for a few hours, now it's offline
+08:10 #4chan: < yunku_> i don't care about whether or not it is hacked
+08:10 #4chan: < Jalexster> They're probably cleaning and checking everything
+08:10 #4chan: < Shad0wMan> maybe it's just undergoing maintenence
+08:11 #4chan: < Shad0wMan> yeah what jalex said
+08:11 -!- Miruku [~qwebirc@Rizon-92DBB11B.mel.nbn.aussiebb.net] has joined #4chan
+08:11 #4chan: < McBoots> give it a day or two
+08:11 #4chan: < yunku_> also LMAO to the people using email register to bypass the 15min wait
+08:11 #4chan: < Jalexster> I mean, there was a full administration breach. Taking everything offline and going over it is a very good idea.
+08:11 #4chan: < McBoots> if chinkmoot decides to end the site then there are plenty of other websites to go to or maybe he'll sell the domain who knows but i dont think it will ever go that extreme
+08:11 #4chan: < suplui> I can't imagine him just letting it die. He paid money for it.
+08:11 #4chan: < Shad0wMan> when niconico got hacked, didn't they have to take it offline for a few days to clean everything
+08:11 #4chan: < project_thorne> 2-3 days and we will forget this even happened because nothing ever happens
+08:12 #4chan: < yunku_> just let it be owned by /qa/, its not such a big deal
+08:12 #4chan: < kadode> yunku_ Were they keeping a list of all the verified emails or something?
+08:12 #4chan: < kadode> I thought they were only temporarily keeping them
+08:12 #4chan: < yunku_> kadode, there was a screenshot of the sql tables in /int/ and there were three for the emails
+08:13 #4chan: < yunku_> also if you were banned and you registered again with the same email, it automatically banned you again, so they had to at least keep hashes around
+08:13 #4chan: < kadode> Lmao so the bastards were keeping all the emails then
+08:13 #4chan: < project_thorne> kadode, if they leak the emails used to register then i'm fucked
+08:13 #4chan: < Shad0wMan> same
+08:13 #4chan: < McBoots> you guys talking about the 4chan pass stuff?
+08:13 #4chan: < kadode> I was of the mindset they only kept them in a temp cache
+08:13 #4chan: < kadode> McBoots nah the 15 min verification thing
+08:13 #4chan: < yunku_> the statement that the emails would get deleted was always either a lie or very dishonest
+08:13 #4chan: < Shad0wMan> nope McBoots, regular 4chan verification
+08:14 #4chan: < McBoots> i used a throw away gmail
+08:14 #4chan: < McBoots> so i should be good
+08:14 #4chan: < McBoots> why would you guys use your real email / school email / gov email?
+08:14 #4chan: < kadode> I used throwaways i thought but then i checked my email and saw one of the verification emails
+08:14 #4chan: < yunku_> even in the best cause, when its "just" a hash list, it means that you can simply run a list of email addresses through it and check which one got registered
+08:14 #4chan: < suplui> Imagine not having 10+ email addresses to use for different unimportant things.
+08:14 #4chan: < project_thorne> nvm i never registered, all good
+08:15 #4chan: < yunku_> which is enough for all purposes, because you would most likely use the lists to check out if your employees are evil nazis... hashes will do for that
+08:15 #4chan: < Shad0wMan> my email accounts are probably in a ton of pwn lists
+08:15 #4chan: < Shad0wMan> already
+08:15 #4chan: < Miruku> Do emails even hold much worth compared to other forms of ID on the dark web anyway? Most of em are probably worthless unless newbs use dictionary passwords
+08:15 #4chan: < Shad0wMan> email addresses*
+08:15 #4chan: < project_thorne> Shadw0Man, my old email was on every data breach list out there so i deleted the email and let all the accounts with it rot
+08:16 #4chan: < mule42> spammers buy lists to attempt blackmail, hijacks, etc.
+08:16 #4chan: < yunku_> Miruku, its not about leaking address lists to send spam to them, its about checking whether or not employee Mr. Johnson browses 4chan
+08:17 #4chan: < mule42> surely google sells that service cheaper and more accurate.
+08:17 #4chan: < mule42> not to mentijon twitter.
+08:17 #4chan: < Miruku> Good point
+08:17 #4chan: < Shad0wMan> Do background checks really use leaked pwn lists?
+08:17 #4chan: < Shad0wMan> sounds kinda unethical
+08:17 #4chan: < project_thorne> i don't think they're that sophisticated unless you're being hired by the government lmao
+08:17 #4chan: < yunku_> also since bans are by email as well, they have to know what email made which posting
+08:17 #4chan: < yunku_> post*
+08:17 #4chan: < kadode> If I ever have a proper business email It'll probably be it's own email because my current email is unprofessional as hell since I made it ages ago
+08:18 #4chan: < Shad0wMan> I want to start a game company someday tbh
+08:18 #4chan: < suplui> Well, at least we know now that people are actually working on fixing the site. Good to know.
+08:18 #4chan: < Shad0wMan> but I'm autistic so I'd A) be a terrible leader and B) be a terrible team member
+08:18 #4chan: < kadode> I might just make another email and connected the couple of important shit i have there to a new email
+08:18 #4chan: < Shad0wMan> but imo getting a team of gamedevs together is the only way to make some of my ideas work
+08:18 #4chan: < kadode> and start using aliases for dumb shit like the 4chan thing
+08:18 -!- sldkfjslkdfsf [~qwebirc@84DC9D28.F3F7929E.B249F936.IP] has quit [Ping timeout: 240 seconds]
+08:18 #4chan: < Shad0wMan> curse my stupid ambitious ideas
+08:18 -!- Mmmmyeah [~qwebirc@FD5E0332.ADCF8195.2FD68292.IP] has joined #4chan
+08:19 #4chan: < Shad0wMan> Also I can't into finance so such a company would probably go under fast
+08:19 #4chan: < kadode> Either way I have faith in the hacker that he won't go around leaking random people's email hashes... Seems like he only cares about the mods and the jannies
+08:19 #4chan: < slushybaka> back in my day, making posts on forums was a gamble: if i typed too much and used too many features, my connection would break, and someone might call in the middle of a posting process, so i could lose everything. this meant that the average time to actually get a post was closer to 15 minutes
+08:19 #4chan: < Miruku> Don't worry Shad0wMan in 10 years we'll all be our own bosses and our wageslaves will be AI waifus
+08:19 #4chan: < slushybaka> summarily, i've just reverted to waiting 15 minutes each time to say my three word comment
+08:19 #4chan: < mule42> sounds like what you wanna do is blackmail a game dev ceo to make your games.
+08:20 #4chan: < project_thorne> Miruku i thought we will all own nothing and be happy
+08:20 #4chan: < yunku_> "Today, April 14, 2025, a hacker, who has been in 4cuck's system for over a year, executed the true operation soyclipse, reopening /qa/, exposing personal information of various 4cuck staff, and leaking code from the site."
+08:20 #4chan: < yunku_> lmao
+08:20 #4chan: < Miruku> project_thorne y-yeah that too ;_;
+08:20 #4chan: < kadode> Miruku but we will be living in ze pod in 10 years
+08:20 #4chan: < Shad0wMan> mule42, nah
+08:20 #4chan: < Miruku> kadode what if the pod is like tang... I wouldn't mind that
+08:20 #4chan: < Shad0wMan> I wanna be my own boss
+08:20 #4chan: < Shad0wMan> i.e make a startup company, etc
+08:20 -!- bearynice [~bearynice@Rizon-D834503E.static.ip.windstream.net] has joined #4chan
+08:21 -!- retard [~qwebirc@Rizon-AF587AB0.lightspeed.wchtks.sbcglobal.net] has joined #4chan
+08:21 #4chan: < mule42> that's just getting tricked into more work.
+08:21 #4chan: < Shad0wMan> But I don't wanna just run a company though
+08:21 #4chan: < Shad0wMan> ofc I'd want to be involved in gamedev itself
+08:21 #4chan: < Shad0wMan> Idk if running a company and being a game designer for that company at the same time is viable
+08:22 #4chan: < retard> does it really take more than half a day to remove a board, delete a few stickies, and remove some guy abusing janny powers
+08:22 -!- darkadherent [~smp@rounded.wheated.death.games] has joined #4chan
+08:22 #4chan: < retard> i want my board back up and i'm gonna make it everyone's problem
+08:22 #4chan: < Shad0wMan> now that I think about it
+08:22 -!- darkadherent [~smp@rounded.wheated.death.games] has left #4chan []
+08:22 #4chan: < mule42> gotta figure out how it was done, rollback to pre-infiltration codebase and databases, etc.
+08:22 #4chan: < Shad0wMan> I guess there are some game company heads who also were involved in the gamedev process
+08:22 #4chan: < project_thorne> the /s4s/ board should be exciting once 4chan goes back online
+08:22 #4chan: < Shad0wMan> particularly in the 90s
+08:23 #4chan: < retard> guy said it was planned for over a year, so it'll be a massive pain to try and figure out what happened
+08:23 #4chan: < Shad0wMan> sid meier at firaxis, will wright at maxis, satoshi tajiri at game freak, etc
+08:23 #4chan: < newfriend> retard i know a spuh poster when i see one
+08:23 #4chan: < retard> all the emails and IPs of staff were leaked
+08:23 #4chan: < bearynice> its been planned since 2021, iirc
+08:23 #4chan: < kadode> 2021 oh wow
+08:23 #4chan: < kadode> calm and calculated ay
+08:23 #4chan: < retard> dayum
+08:23 #4chan: < Shad0wMan> but all of those either eventually focused entirely on running the company, or in the case of will wright, left the company
+08:24 #4chan: < yunku_> reminder that the last post made on 4chan was "CHICKEN JOCKEY"
+08:24 #4chan: < project_thorne> flint and steel..
+08:24 #4chan: < yunku_> ENDER PEARL
+08:24 #4chan: < retard> i wonder if the mods will make qa into a containment board, like how they removed pol once and had to add it back
+08:24 #4chan: < Shad0wMan> I find jack black to be a hit or miss actor tbh
+08:24 #4chan: < retard> if i remember right
+08:24 #4chan: < mule42> i think there's an old russian folktale about a hedgehog riding a chicken.
+08:24 #4chan: < Shad0wMan> When I was young and naive I thought he was cool but growing up I found his schtick to be trite
+08:25 -!- boredanonymous [~qwebirc@Rizon-C099E3EE.hsd1.ut.comcast.net] has joined #4chan
+08:25 #4chan: < Shad0wMan> and he probably has some skeletons in his closet
+08:25 #4chan: < Shad0wMan> as actors tend to do, or any person for that matter
+08:25 #4chan: < bearynice> i feel like sharty has already become such a tumor that bringing back /qa/ wouldnt do anything
+08:25 #4chan: < Shad0wMan> and I can't tell if his "gamer" personality is genuine or trying to be hip with the kids
+08:25 #4chan: < Shad0wMan> or just trying to be funny and ironic
+08:25 #4chan: < project_thorne> the theater i saw the minecraft movie at got trashed literally the day after i came lmao
+08:26 #4chan: < kadode> Chicken jockey
+08:26 #4chan: < kadode> The last post on 4chan...
+08:26 #4chan: < Shad0wMan> most "gamers" his age that aren't involved in the game industry only grew up with atari and that's it
+08:26 #4chan: < mule42> are theaters the new sportsball stadiums?
+08:26 #4chan: < Shad0wMan> actually how old is the guy
+08:26 #4chan: < project_thorne> so when i came a few days ago to watch another movie, the amateur, there was a curfew on kids under 16
+08:26 #4chan: < Shad0wMan> is he in his 60s?
+08:27 #4chan: < Shad0wMan> 55, huh
+08:27 #4chan: < Shad0wMan> younger than I thought
+08:27 -!- bearynice [~bearynice@Rizon-D834503E.static.ip.windstream.net] has quit []
+08:27 #4chan: < project_thorne> mule42 there's nothing good in sportsball until the NHL playoffs start
+08:28 #4chan: < Shad0wMan> still though, he probably grew up with the atari and probably views modern games as totally beyond him
+08:28 #4chan: < mule42> there's no ball in hockey, though.
+08:28 #4chan: < Shad0wMan> unless he genuinely plays stuff like CoD or some shit lol
+08:28 -!- bluh [~qwebirc@Rizon-F52F9A21.ph.ph.cox.net] has quit [Ping timeout: 240 seconds]
+08:28 #4chan: < project_thorne> mule42 still better than basketball
+08:29 #4chan: < retard> all the obnoxious general fags who religiously shit up every board they're in are gonna start migrating to sharty
+08:29 #4chan: < retard> and i'll laugh
+08:29 #4chan: < retard> wish they would all just stick to discord
+08:31 #4chan: < kadode> I'm starting to have 4chan withdrawal
+08:31 #4chan: < Shad0wMan> same
+08:31 #4chan: < Shad0wMan> not as bad as the april fools 2025 incident tho
+08:31 #4chan: < Shad0wMan> where everyone got stuffed into /b/ and /bant/
+08:31 #4chan: < retard> this was funnier
+08:31 #4chan: < project_thorne> true
+08:32 #4chan: < mule42> how many blondes w/ ponytails and mma can you think of w/o looking?
+08:33 #4chan: < kadode> Except this one isn't an april fools prank
+08:33 -!- RogerBndr [~RogerBend@6C99C9E5:BD2559A3:4504DEBF:IP] has joined #4chan
+08:33 #4chan: < kadode> At least then we could post somewhere
+08:33 #4chan: < boredanonymous> where am I supposed to shitpost now
+08:35 #4chan: < Shad0wMan> anyone else yearn for the mines right now?
+08:35 #4chan: < project_thorne> i'm a child and i yearn for the mines
+08:35 -!- chudcel [~qwebirc@7AEC26FA.DE34BC79.E9AF1AB8.IP] has joined #4chan
+08:35 -!- HarryMackenzie [~HarryMack@Rizon-D4C687FC.vm6.cable.virginm.net] has joined #4chan
+08:36 #4chan: < chudcel> is this chat dead?
+08:36 -!- noka [~qwebirc@Rizon-6C8677.cpe.sparklight.net] has quit [Ping timeout: 240 seconds]
+08:36 #4chan: < Shad0wMan> nope, not dead
+08:36 -!- pleasegodno [~qwebirc@Rizon-FE0E216C.pool.telefonica.de] has joined #4chan
+08:36 #4chan: < Shad0wMan> it's basically a waiting room
+08:37 #4chan: < Shad0wMan> to wait while the site gets cleaned and run through maintanence to go back up
+08:37 #4chan: < Shad0wMan> maintenence*
+08:37 #4chan: < boredanonymous> Is it actually coming back up?
+08:37 #4chan: < Shad0wMan> I hope
+08:37 -!- yum [~qwebirc@74F8E64.6418F0DC.19BFB60.IP] has joined #4chan
+08:38 #4chan: < boredanonymous> I'm pessimistic personally
+08:38 #4chan: < project_thorne> i'm guessing it should be up in roughly 5-10 hours
+08:38 -!- project_thorne [~qwebirc@Rizon-87F1998F.zoominternet.net] has quit [Quit: Page closed]
+08:39 -!- project_thorne [~qwebirc@Rizon-87F1998F.zoominternet.net] has joined #4chan
+08:39 #4chan: < drwho> if 4chan didnt come back up, where would you go?
+08:39 -!- thaigh [~root@F0A0F73C.7C083142.C892C62.IP] has quit [Ping timeout: 240 seconds]
+08:40 #4chan: < project_thorne> i really don't know any other communities where i can gather alt-right views that aren't hidden in discord communities
+08:40 #4chan: < drwho> x.com maybe
+08:40 #4chan: < Shad0wMan> idk man, there isn't any other social site with as much anonymity as 4chan
+08:40 #4chan: < retard> the people who raided us
+08:40 #4chan: < Shad0wMan> no thanks
+08:41 #4chan: < kadode> I remember when 2channel got it's domain hijacked in 2015 a lot of jp netizens fled to X so maybe there
+08:41 #4chan: < kadode> I wouldn't though I hate xitter
+08:41 -!- vkat [~subst@2D1E1584:57C8B754:52F68391:IP] has quit [Read error: Connection reset by peer]
+08:41 -!- Snowshoe [~mint@mintosoft.net] has quit [Quit: Leaving]
+08:41 #4chan: < project_thorne> i can't even use xitter without being prompted to register
+08:41 #4chan: < kadode> I use it to look at cute art that's about it
+08:41 #4chan: < kadode> Most of it is culture war shit
+08:41 #4chan: < retard> fuck x
+08:41 #4chan: < retard> elon is a pajeet dick sucker
+08:41 #4chan: < kadode> project_thorne Blame musk for that, you can use Xcancel though
+08:42 #4chan: < kadode> nitter instance that bypasses it
+08:42 #4chan: < boredanonymous> Maybe some altchan will pop up worth using
+08:42 #4chan: < kadode> Hope so
+08:42 #4chan: < kadode> I'd probably go to one of thoe
+08:42 #4chan: < kadode> those*
+08:42 #4chan: < retard> most dont like newfags though
+08:42 #4chan: < kadode> Even if i went to xitter it wouldn't scratch the itch for me considering i'm linked to a name
+08:43 #4chan: < retard> wizchan, heyuri, sharty, wapchan, uboachan are all decent
+08:44 #4chan: < boredanonymous> need a newfagchan
+08:44 #4chan: < RogerBndr> i miss kolyma
+08:44 #4chan: < retard> well, when i say sharty's "decent" take it with a grain of salt, but the best thing it has going for it is how active it is
+08:45 #4chan: < kadode> Sharty is a hellscape
+08:45 #4chan: < kadode> I used to post there but i stopped because half of the posts were gore and 'cado
+08:45 #4chan: < retard> you might find doomscrolling on 8kun fun but you wont get a reply to anything unless you're a Qboomer
+08:46 -!- thetooth [~thetooth@Rizon-7FC04991.ip.linodeusercontent.com] has joined #4chan
+08:46 -!- IsItOver [~qwebirc@5AE9DDA2.38A51A5C.A7FEDACF.IP] has joined #4chan
+08:46 #4chan: < thetooth> is it over?
+08:47 #4chan: < IsItOver> that's what im wondering
+08:47 #4chan: < yunku_> i sent some mods wholesome emails, i hope they reply
+08:47 #4chan: < retard> also i find it funny that heyuri is connected to kuz (former sharty owner) when they're basically a jp outcrop that bans any nuchan shit like soyjaks or soyspeak
+08:47 -!- ethan8 [~kvirc@ethanarmy3948934.win] has quit [Read error: Connection reset by peer]
+08:47 #4chan: < kadode> I use Heyuri occasionally, didn't think about that
+08:47 #4chan: < kadode> Wonder what they're up to right now
+08:48 #4chan: < project_thorne> i legitimately don't believe that a lot of imageboards like 4chan or altchans in general will make it into 2030 because of digital ID and the decline of online anonymity
+08:48 #4chan: < retard> the owner kaguya (who's also a janitor here) has some kind of relationship with kuz in some way
+08:48 #4chan: < newfriend> i will be dead by then, personally 
+08:48 -!- bluh [~qwebirc@Rizon-F52F9A21.ph.ph.cox.net] has joined #4chan
+08:49 #4chan: < killsushi> retard, kuz gave heyuri to kaguya to disassociate it from his poor reputation and soy-posting ways
+08:49 #4chan: < IsItOver> i think the problem is that ai chatbots are going to fill up every single online forum
+08:49 #4chan: < boredanonymous> an internet completely purged of online anonymity is pretty pointless honestly
