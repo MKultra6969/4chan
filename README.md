@@ -1,4 +1,6 @@
 # 🍀4chan's major leak
+![HappyLittleFriend](https://github.com/user-attachments/assets/6ee2cf46-9952-4985-a098-7b410302a825)
+
 
 ### All the leaked 4chan sources I found after the April 14, 2025 hack.
  
