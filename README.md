@@ -1,4 +1,6 @@
 # 🍀4chan's major leak
+### No more updates on this repo.
+### I got really dont give a fuck and too lazy.
 ![HappyLittleFriend](https://github.com/user-attachments/assets/6ee2cf46-9952-4985-a098-7b410302a825)
 
 
@@ -31,5 +33,4 @@
 ```
 
 ## P.S. 💾
-Maybe I'll upload other files here later.
 I have nothing to do with hacking 4chan, just archiving info.
